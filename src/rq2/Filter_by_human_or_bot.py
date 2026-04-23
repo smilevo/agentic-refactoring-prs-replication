@@ -5,7 +5,10 @@ import csv
 
 # ---------- paths ----------
 here = os.path.dirname(os.path.abspath(__file__))
-all_rows_path = os.path.join(here, "AIDev_all_refactor_PR_reviews.csv")  # already filtered to Refactoring PRs
+# Check if data exists in src/rq2, otherwise look in study_design
+all_rows_path = os.path.join(here, "AIDev_all_refactor_PR_reviews.csv")
+if not os.path.exists(all_rows_path):
+    all_rows_path = os.path.abspath(os.path.join(here, "../../study_design/rq2/data_extraction/AIDev_all_refactor_PR_reviews.csv"))
 
 hum_out = os.path.join(here, "AIDev_pop_refactor_reviewers_humans.csv")
 bot_out = os.path.join(here, "AIDev_pop_refactor_reviewers_bots.csv")

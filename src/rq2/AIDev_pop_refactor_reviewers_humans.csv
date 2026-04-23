@@ -1,0 +1,931 @@
+﻿pr_id,user,state,submitted_at,full_name,stars,body
+2915784381,nickskalkin,APPROVED,2025-03-13T08:33:50Z,artsy/force,619.0,
+2915784381,olerichter00,APPROVED,2025-03-13T09:44:20Z,artsy/force,619.0,🌟
+2915784381,damassi,APPROVED,2025-03-13T15:08:08Z,artsy/force,619.0,"⭐ Need to run this over all of volts enzyme tests. We've got a split environment over there atm, similar to here."
+3235103212,TomeHirata,COMMENTED,2025-07-17T09:21:04Z,mlflow/mlflow,21402.0,
+3235103212,TomeHirata,COMMENTED,2025-07-17T09:23:00Z,mlflow/mlflow,21402.0,
+3235103212,TomeHirata,COMMENTED,2025-07-17T09:24:21Z,mlflow/mlflow,21402.0,
+3235103212,harupy,COMMENTED,2025-07-17T09:34:40Z,mlflow/mlflow,21402.0,
+3235103212,harupy,COMMENTED,2025-07-17T12:55:23Z,mlflow/mlflow,21402.0,
+3235103212,harupy,COMMENTED,2025-07-17T12:56:08Z,mlflow/mlflow,21402.0,
+3235103212,TomeHirata,APPROVED,2025-07-18T02:47:06Z,mlflow/mlflow,21402.0,LGTM
+3132093324,rahul-tuli,COMMENTED,2025-06-10T04:22:31Z,vllm-project/vllm,53643.0,
+3132093324,mgoin,COMMENTED,2025-06-10T17:28:04Z,vllm-project/vllm,53643.0,
+3177654490,MH4GF,COMMENTED,2025-06-26T04:14:41Z,liam-hq/liam,4194.0,
+3177654490,MH4GF,COMMENTED,2025-06-26T04:17:08Z,liam-hq/liam,4194.0,
+3177654490,FunamaYukina,APPROVED,2025-06-26T05:32:16Z,liam-hq/liam,4194.0,"Thanks for this, LGTM!🌻"
+3177654490,NoritakaIkeda,APPROVED,2025-06-26T05:34:15Z,liam-hq/liam,4194.0,"Thanks! LGTM! The code looks clean and consistent, and all tests are passing correctly, so I don't see any major risks at this point."
+2905748105,czarcas7ic,APPROVED,2025-03-09T23:32:45Z,osmosis-labs/osmosis,947.0,
+2916677326,MounirDhahri,APPROVED,2025-03-13T10:43:33Z,artsy/eigen,3686.0,Niiice ❤️
+2916677326,brainbicycle,APPROVED,2025-03-13T13:12:17Z,artsy/eigen,3686.0,"impressive, that all looks like pretty reasonable code! and less type errors!"
+2916677326,damassi,APPROVED,2025-03-13T15:10:58Z,artsy/eigen,3686.0,Yess
+2916677326,anandaroop,APPROVED,2025-03-13T17:43:31Z,artsy/eigen,3686.0,😎
+3189507528,tphakala,COMMENTED,2025-07-01T07:21:53Z,tphakala/birdnet-go,464.0,
+3151873955,JayShortway,COMMENTED,2025-06-17T08:58:44Z,RevenueCat/purchases-ios,2728.0,Awesome that we're building this! Just a few comments.
+3151873955,joshdholtz,COMMENTED,2025-06-17T13:36:47Z,RevenueCat/purchases-ios,2728.0,
+3151873955,joshdholtz,COMMENTED,2025-06-17T13:37:44Z,RevenueCat/purchases-ios,2728.0,
+3151873955,joshdholtz,COMMENTED,2025-06-17T13:38:20Z,RevenueCat/purchases-ios,2728.0,
+3151873955,joshdholtz,COMMENTED,2025-06-17T13:39:18Z,RevenueCat/purchases-ios,2728.0,
+3151873955,joshdholtz,COMMENTED,2025-06-17T13:45:58Z,RevenueCat/purchases-ios,2728.0,
+3151873955,joshdholtz,COMMENTED,2025-06-17T13:58:39Z,RevenueCat/purchases-ios,2728.0,
+3151873955,joshdholtz,COMMENTED,2025-06-17T13:59:04Z,RevenueCat/purchases-ios,2728.0,
+3151873955,JayShortway,COMMENTED,2025-06-17T18:12:38Z,RevenueCat/purchases-ios,2728.0,
+3151873955,JayShortway,COMMENTED,2025-06-17T18:16:34Z,RevenueCat/purchases-ios,2728.0,
+3151873955,ajpallares,COMMENTED,2025-07-23T08:36:31Z,RevenueCat/purchases-ios,2728.0,Wow great job on this! I've taking a first quick look and left some comments around the `PaywallPromoOfferCache`
+3151873955,tonidero,COMMENTED,2025-07-23T09:20:58Z,RevenueCat/purchases-ios,2728.0,"Mostly just @ajpallares's comments, but excited to support this! 🙌"
+3151873955,joshdholtz,COMMENTED,2025-07-29T01:43:35Z,RevenueCat/purchases-ios,2728.0,
+3151873955,joshdholtz,COMMENTED,2025-07-29T01:43:51Z,RevenueCat/purchases-ios,2728.0,
+3151873955,ajpallares,APPROVED,2025-07-31T11:35:29Z,RevenueCat/purchases-ios,2728.0,Looks great!! 🙌 Only some minor comments and nits (`@_spi` policeman here)
+3151873955,joshdholtz,COMMENTED,2025-07-31T18:48:45Z,RevenueCat/purchases-ios,2728.0,
+3155322770,JonasKruckenberg,APPROVED,2025-06-20T10:14:41Z,JonasKruckenberg/k23,515.0,Looks good 👍🏻
+3222101465,MH4GF,COMMENTED,2025-07-11T08:57:39Z,liam-hq/liam,4194.0,
+3222101465,MH4GF,COMMENTED,2025-07-11T08:58:40Z,liam-hq/liam,4194.0,
+3222101465,MH4GF,COMMENTED,2025-07-11T09:00:34Z,liam-hq/liam,4194.0,
+3222101465,MH4GF,COMMENTED,2025-07-11T09:01:18Z,liam-hq/liam,4194.0,
+3222101465,MH4GF,COMMENTED,2025-07-11T09:03:19Z,liam-hq/liam,4194.0,
+3222101465,MH4GF,COMMENTED,2025-07-11T09:04:07Z,liam-hq/liam,4194.0,
+3222101465,MH4GF,COMMENTED,2025-07-11T09:14:02Z,liam-hq/liam,4194.0,
+3222101465,MH4GF,COMMENTED,2025-07-11T09:16:41Z,liam-hq/liam,4194.0,
+3222101465,MH4GF,COMMENTED,2025-07-11T09:21:14Z,liam-hq/liam,4194.0,
+3222101465,FunamaYukina,APPROVED,2025-07-14T03:51:33Z,liam-hq/liam,4194.0,I have confirmed that it works in my local environment. Thanks for the refactoring!
+3188865855,DonKoko,COMMENTED,2025-07-14T12:12:41Z,Shelf-nu/shelf.nu,2165.0,- [x] Barcode preview overflows on smaller screens - [x] Increase limit of chars of DataMatrix so we can support people onboarding that already have existing codes - [x] `This QR code doesn't exist or it doesn't belong to your current organization.` - should be more generic as it now shows this also for barcodes - [x] Feature to add new barcode directly from the page - [x] Issues reported by co-pilot
+3139315341,satococoa,COMMENTED,2025-06-17T01:55:31Z,giselles-ai/giselle,154.0,
+3139315341,shige,APPROVED,2025-06-17T02:50:57Z,giselles-ai/giselle,154.0,"Thank you! 🛤️ I have confirmed that https://github.com/giselles-ai/giselle, which was not possible to add before, can now be added with this PR! ✅ --- @toyamarinyon Could you review codes when you have a time?"
+3139315341,toyamarinyon,COMMENTED,2025-06-17T05:19:29Z,giselles-ai/giselle,154.0,"I would like to have a discussion about whether this architecture is valid in the first place, but I don't think that's what's being requested, so please tell me what kind of review I should perform on these 2000 lines"
+3139315341,toyamarinyon,CHANGES_REQUESTED,2025-06-17T07:08:39Z,giselles-ai/giselle,154.0,"This implementation shows patterns typical of AI-generated code that hasn't been sufficiently reviewed and refined: **Specific Issues:** - **Excessive verbosity**: Classes like `LineChunker` (297 lines) and extensive inline documentation suggest automated generation - **Over-engineering**: Heavy use of classes where simpler functional approaches would be more appropriate - **Type complexity**: Unnecessarily complex nested type definitions that could be simplified **Design Problems:** - `PostgresChunkStore` handles too many responsibilities - `IngestPipeline` configuration is overly complex with deep nesting - The factory pattern implementation adds unnecessary abstraction layers While AI tools can accelerate development, the code submitted for review should reflect human judgment and refinement. This includes: - Simplifying AI-generated complexity - Choosing appropriate design patterns - Ensuring maintainable architecture"
+3139315341,toyamarinyon,COMMENTED,2025-06-19T05:13:25Z,giselles-ai/giselle,154.0,"thanks, I see that some modules use classes: - `GitHubBlobLoader` (github-tool) - `IngestPipeline` (rag2/ingest) - `PostgresQueryService` (rag2/query-service) While others use factory functions: - `createLineChunker()` (rag2/chunker) - `ensurePgVectorTypes()` (rag2/database) - `createQueryService()` (rag2/factories) **Could you help me understand why you chose classes for some implementations and functions for others?** I'm asking because classes tend to increase complexity through: - The ability to use inheritance (which can create tight coupling) - Member variables (which can lead to hidden state mutations) - More complex testing scenarios For example, `GitHubBlobLoader` could potentially be implemented as: ```typescript export function createGitHubBlobLoader(octokit: Octokit, options?: {...}) { return { load: async function* (params) { ... } }; } ``` What were your considerations when deciding between these two approaches? I'd love to understand your thought process to ensure we maintain consistency across the codebase."
+3139315341,toyamarinyon,APPROVED,2025-06-19T06:16:11Z,giselles-ai/giselle,154.0,
+3007785025,chandrasekharan-zipstack,COMMENTED,2025-04-21T07:34:28Z,Zipstack/unstract,5513.0,Changes LGTM - however 1. Won't this break existing clients that rely on the existing (flawed) logic? Ideally we should version the API deployments to aid with such changes however since we don't have it in place I'm wondering how we can carry this out cleanly 1. We might have to update accordingly in our `python-client` and the API deployments batch run script if required
+3086930190,jxnl,COMMENTED,2025-05-24T05:39:45Z,567-labs/kura,259.0,
+3086930190,jxnl,COMMENTED,2025-05-24T05:40:24Z,567-labs/kura,259.0,
+3086930190,jxnl,COMMENTED,2025-05-24T05:41:19Z,567-labs/kura,259.0,
+3212218608,feiskyer,COMMENTED,2025-07-10T00:24:12Z,kubernetes-sigs/cloud-provider-azure,279.0,"LGTM, but could you fix the commit message? That's a blocker for merging"
+3212218608,feiskyer,APPROVED,2025-07-11T03:37:12Z,kubernetes-sigs/cloud-provider-azure,279.0,/retest /lgtm
+3158818689,LLFourn,COMMENTED,2025-06-24T01:26:47Z,LLFourn/secp256kfun,111.0,
+3158818689,LLFourn,COMMENTED,2025-06-24T02:03:04Z,LLFourn/secp256kfun,111.0,
+3158818689,LLFourn,COMMENTED,2025-06-24T02:19:09Z,LLFourn/secp256kfun,111.0,
+3158818689,nickfarrow,COMMENTED,2025-07-23T05:26:23Z,LLFourn/secp256kfun,111.0,
+3158818689,nickfarrow,APPROVED,2025-07-23T05:52:51Z,LLFourn/secp256kfun,111.0,I haven't studied and understood the mathematics in `secp256kfun/src/vendor/hash_to_curve.rs` but the test vectors pass. The simpler try and increment hash-to-curve functions look good to me.
+3186447377,evan-forbes,COMMENTED,2025-06-29T21:39:00Z,celestiaorg/celestia-core,531.0,"gotta fix the linter @copilot ```sh run golangci-lint Running [/home/runner/golangci-lint-2.1.6-linux-amd64/golangci-lint config path] in [/home/runner/work/celestia-core/celestia-core] ... Running [/home/runner/golangci-lint-2.1.6-linux-amd64/golangci-lint config verify] in [/home/runner/work/celestia-core/celestia-core] ... Running [/home/runner/golangci-lint-2.1.6-linux-amd64/golangci-lint run --timeout 10m] in [/home/runner/work/celestia-core/celestia-core] ... Error: libs/trace/cached_file.go:115:1: File is not properly formatted (gofmt) } ^ Error: libs/trace/cached_file_test.go:8:1: File is not properly formatted (gofmt) ""github.com/stretchr/testify/require"" ^ Error: libs/trace/local_tracer.go:1[36](https://github.com/celestiaorg/celestia-core/actions/runs/15958314165/job/45008281226?pr=2086#step:5:38):1: File is not properly formatted (gofmt) } ^ 3 issues: * gofmt: 3 ``` call golanci-lint to ensure things are fixed. otherwise lgtm"
+3186447377,evan-forbes,COMMENTED,2025-07-20T19:05:30Z,celestiaorg/celestia-core,531.0,
+3186447377,evan-forbes,COMMENTED,2025-07-20T22:28:25Z,celestiaorg/celestia-core,531.0,
+3210325463,H3rmt,APPROVED,2025-07-07T22:07:23Z,H3rmt/hyprshell,401.0,
+3078782339,AlonsoGuevara,APPROVED,2025-07-10T18:08:11Z,microsoft/graphrag,26945.0,
+3211119439,dylan-smith,APPROVED,2025-07-08T17:53:29Z,github/gh-gei,371.0,
+3211119439,dylan-smith,COMMENTED,2025-07-08T18:12:14Z,github/gh-gei,371.0,
+3211119439,begonaguereca,APPROVED,2025-07-17T15:19:37Z,github/gh-gei,371.0,
+3244901827,NewFuture,COMMENTED,2025-07-19T10:42:59Z,NewFuture/DDNS,4528.0,能否基于`ProxyHandler` 实现一个逐个尝试的 ProxiesHandler
+3244901827,NewFuture,COMMENTED,2025-07-19T11:04:21Z,NewFuture/DDNS,4528.0,
+3244901827,NewFuture,COMMENTED,2025-07-19T12:00:03Z,NewFuture/DDNS,4528.0,
+3244901827,NewFuture,COMMENTED,2025-07-19T12:35:22Z,NewFuture/DDNS,4528.0,
+3096613645,rSnapkoOpenOps,APPROVED,2025-05-30T07:10:25Z,openops-cloud/openops,908.0,
+3211888421,mo-amzn,APPROVED,2025-07-08T11:42:18Z,valkey-io/valkey-glide,538.0,
+3259888057,pelikhan,APPROVED,2025-07-24T15:26:22Z,microsoft/genaiscript,2742.0,
+3203303674,stweil,COMMENTED,2025-07-04T19:10:48Z,tesseract-ocr/tesseract,68523.0,
+3203303674,egorpugin,COMMENTED,2025-07-04T19:17:49Z,tesseract-ocr/tesseract,68523.0,
+3252583512,GMPrakhar,APPROVED,2025-07-22T14:59:51Z,GMPrakhar/MAUI-Designer,133.0,
+3166856651,joelrosario,APPROVED,2025-06-25T05:01:34Z,specmatic/specmatic,318.0,
+3168626948,matthewige,COMMENTED,2025-06-23T15:56:30Z,microsoft/ebpf-for-windows,3268.0,
+3168626948,matthewige,COMMENTED,2025-06-23T16:04:02Z,microsoft/ebpf-for-windows,3268.0,
+3168626948,dthaler,COMMENTED,2025-06-24T19:31:36Z,microsoft/ebpf-for-windows,3268.0,
+3108559852,squirrelsc,APPROVED,2025-06-02T15:07:57Z,microsoft/lisa,310.0,
+3265728197,Pikachuxxxx,COMMENTED,2025-07-26T14:39:30Z,Pikachuxxxx/Razix,493.0,
+3265728197,Pikachuxxxx,COMMENTED,2025-07-26T14:58:14Z,Pikachuxxxx/Razix,493.0,
+3265728197,Pikachuxxxx,COMMENTED,2025-07-26T15:12:21Z,Pikachuxxxx/Razix,493.0,"Keep the WindowsInput and GLFWInput classes as-is I'll add them back in premake per platform, edit the razix_engine.lua file to select the right input, Windows will be just stay as backup once we remove GLFWInput, they are picked up build system sime they are implementation purposes and I don't think we need RZInput.cpp in tihs case..."
+3265728197,Pikachuxxxx,COMMENTED,2025-07-26T15:24:50Z,Pikachuxxxx/Razix,493.0,
+3138050155,evan-forbes,APPROVED,2025-06-11T21:05:26Z,celestiaorg/celestia-app,393.0,worth a try
+3138050155,rootulp,APPROVED,2025-06-11T21:39:07Z,celestiaorg/celestia-app,393.0,
+3138050155,rach-id,APPROVED,2025-06-12T07:01:16Z,celestiaorg/celestia-app,393.0,I like these. Does it make sense to have them in core too?
+3174512200,davidfowl,COMMENTED,2025-06-25T08:00:02Z,dotnet/aspire,4723.0,
+3174512200,davidfowl,COMMENTED,2025-06-25T08:00:43Z,dotnet/aspire,4723.0,
+3174512200,davidfowl,COMMENTED,2025-06-25T08:01:01Z,dotnet/aspire,4723.0,
+3174512200,davidfowl,COMMENTED,2025-06-25T08:02:59Z,dotnet/aspire,4723.0,
+3174512200,davidfowl,COMMENTED,2025-06-25T09:00:34Z,dotnet/aspire,4723.0,
+3174512200,davidfowl,COMMENTED,2025-06-25T09:02:35Z,dotnet/aspire,4723.0,
+3174512200,davidfowl,COMMENTED,2025-06-25T09:04:28Z,dotnet/aspire,4723.0,
+3174512200,captainsafia,COMMENTED,2025-06-25T19:10:35Z,dotnet/aspire,4723.0,
+3174512200,captainsafia,APPROVED,2025-06-26T05:05:38Z,dotnet/aspire,4723.0,
+3174512200,davidfowl,APPROVED,2025-06-26T05:20:56Z,dotnet/aspire,4723.0,
+3262902843,ulugbekna,APPROVED,2025-07-26T10:55:08Z,microsoft/vscode-copilot-chat,8005.0,
+3264881289,benwbrum,COMMENTED,2025-08-03T14:41:47Z,benwbrum/fromthepage,174.0,
+3085705530,rSnapkoOpenOps,APPROVED,2025-05-23T14:40:40Z,openops-cloud/openops,908.0,"Looks good to me, but let's pay attention to caching"
+3219254404,brainkim,COMMENTED,2025-07-10T14:56:11Z,bikeshaving/crank,2733.0,As per my comment! I am heading to Taco Bell now.
+3219254404,brainkim,COMMENTED,2025-07-10T16:14:25Z,bikeshaving/crank,2733.0,The `renderer.hydrate()` method must be called at each point in the walk that `commitChildren()` is doing. We incorrectly assume that it’s defined on the `Retainer`.
+3219254404,brainkim,COMMENTED,2025-07-10T17:02:50Z,bikeshaving/crank,2733.0,"Please delete the package-lock.json file. Currently, I’m using bun so `bun run` `bun install` should be your workflow."
+3096094015,harupy,COMMENTED,2025-05-28T05:49:50Z,mlflow/mlflow,21402.0,Left a few comments :)
+3096094015,harupy,COMMENTED,2025-05-28T05:53:57Z,mlflow/mlflow,21402.0,
+3096094015,harupy,COMMENTED,2025-05-28T05:54:12Z,mlflow/mlflow,21402.0,
+3238012390,mitchdenny,APPROVED,2025-07-17T05:41:16Z,dotnet/aspire,4723.0,
+3238012390,davidfowl,APPROVED,2025-07-17T07:15:58Z,dotnet/aspire,4723.0,
+3157816556,otoolep,COMMENTED,2025-06-18T20:02:32Z,rqlite/rqlite,16816.0,
+3157816556,otoolep,COMMENTED,2025-06-18T20:02:51Z,rqlite/rqlite,16816.0,
+3152174737,raineorshine,CHANGES_REQUESTED,2025-06-18T12:47:32Z,cybersemics/em,337.0,
+3152174737,raineorshine,CHANGES_REQUESTED,2025-06-18T16:28:11Z,cybersemics/em,337.0,
+3152174737,raineorshine,APPROVED,2025-06-18T16:44:10Z,cybersemics/em,337.0,
+3082320330,mikhailshilkov,COMMENTED,2025-05-22T10:10:12Z,pulumi/pulumi,23536.0,
+3082320330,tgummerer,COMMENTED,2025-05-23T07:57:59Z,pulumi/pulumi,23536.0,Instead of `assert.` use `require.` for the tests.
+3082320330,tgummerer,COMMENTED,2025-05-23T14:31:08Z,pulumi/pulumi,23536.0,
+3082320330,mikhailshilkov,COMMENTED,2025-05-23T14:35:18Z,pulumi/pulumi,23536.0,
+3082320330,tgummerer,COMMENTED,2025-05-23T15:07:53Z,pulumi/pulumi,23536.0,
+3082320330,tgummerer,COMMENTED,2025-05-23T15:08:23Z,pulumi/pulumi,23536.0,
+3082320330,mikhailshilkov,COMMENTED,2025-05-24T15:08:35Z,pulumi/pulumi,23536.0,
+3082320330,tgummerer,COMMENTED,2025-05-27T08:04:46Z,pulumi/pulumi,23536.0,
+3082320330,foot,APPROVED,2025-06-03T06:16:50Z,pulumi/pulumi,23536.0,Nice one 👌 . Looks like we return plain-text error messages for >= 400 pretty much everywhere.
+3083117301,rita-gorokhod,COMMENTED,2025-05-22T15:12:27Z,openops-cloud/openops,908.0,
+3083117301,rita-gorokhod,COMMENTED,2025-05-22T15:13:15Z,openops-cloud/openops,908.0,
+3083117301,rita-gorokhod,COMMENTED,2025-05-22T15:13:28Z,openops-cloud/openops,908.0,
+3083117301,rita-gorokhod,COMMENTED,2025-05-22T15:46:47Z,openops-cloud/openops,908.0,
+3083117301,rita-gorokhod,COMMENTED,2025-05-22T15:47:09Z,openops-cloud/openops,908.0,
+3083117301,rita-gorokhod,COMMENTED,2025-05-22T15:47:35Z,openops-cloud/openops,908.0,
+3083117301,rita-gorokhod,COMMENTED,2025-05-22T15:48:11Z,openops-cloud/openops,908.0,
+3275443065,DaveSkender,CHANGES_REQUESTED,2025-07-30T06:57:15Z,facioquo/stock-indicators-python,324.0,"For PR code checks - [ ] address failing unit tests by fixing source code, unless the test rig itself need fixes. none of the logical aspects of tests should change - [ ] address Codacy issues"
+3275443065,DaveSkender,CHANGES_REQUESTED,2025-07-30T07:23:10Z,facioquo/stock-indicators-python,324.0,"Fix failing CI tests ImportError while loading conftest '/home/runner/work/stock-indicators-python/stock-indicators-python/tests/conftest.py'. tests/conftest.py:10: in from stock_indicators._cslib import clr stock_indicators/__init__.py:17: in from stock_indicators import indicators stock_indicators/indicators/__init__.py:5: in from .adl import (get_adl) stock_indicators/indicators/adl.py:5: in from stock_indicators.indicators.common.helpers import CondenseMixin stock_indicators/indicators/common/__init__.py:2: in from .results import ( stock_indicators/indicators/common/results.py:32: in class IndicatorResults(List[_T]): stock_indicators/indicators/common/results.py:94: in IndicatorResults def __add__(self, other: ""IndicatorResults""): E TypeError: 'staticmethod' object is not callable Error: Process completed with exit code 4."
+3275443065,DaveSkender,CHANGES_REQUESTED,2025-07-30T07:59:19Z,facioquo/stock-indicators-python,324.0,Fix Codacy issues
+3275443065,DaveSkender,CHANGES_REQUESTED,2025-07-30T08:17:14Z,facioquo/stock-indicators-python,324.0,"Fix failing build tests ImportError while loading conftest '/home/runner/work/stock-indicators-python/stock-indicators-python/tests/conftest.py'. tests/conftest.py:10: in from stock_indicators._cslib import clr stock_indicators/__init__.py:17: in from stock_indicators import indicators stock_indicators/indicators/__init__.py:5: in from .adl import (get_adl) stock_indicators/indicators/adl.py:5: in from stock_indicators.indicators.common.helpers import CondenseMixin stock_indicators/indicators/common/__init__.py:2: in from .results import ( stock_indicators/indicators/common/results.py:32: in class IndicatorResults(List[_T]): stock_indicators/indicators/common/results.py:94: in IndicatorResults def __add__(self, other: ""IndicatorResults""): E TypeError: 'staticmethod' object is not callable Error: Process completed with exit code 4."
+3275443065,DaveSkender,CHANGES_REQUESTED,2025-07-30T08:29:17Z,facioquo/stock-indicators-python,324.0,Fix Codacy issues
+3275443065,DaveSkender,CHANGES_REQUESTED,2025-07-30T08:45:29Z,facioquo/stock-indicators-python,324.0,"Fix this, without causing Codacy issues. Your cycling to and from the same errors"
+3198011555,EdwinVW,APPROVED,2025-07-03T05:27:00Z,EdwinVW/pitstop,1135.0,Successfully tested.
+3173280313,aiday-mar,COMMENTED,2025-07-09T10:07:51Z,microsoft/vscode,175171.0,Hi can you leave comments explaining your changes?
+3141571114,raineorshine,CHANGES_REQUESTED,2025-06-13T09:18:37Z,cybersemics/em,337.0,
+3141571114,raineorshine,CHANGES_REQUESTED,2025-06-13T09:31:57Z,cybersemics/em,337.0,
+3141571114,raineorshine,APPROVED,2025-06-13T09:55:09Z,cybersemics/em,337.0,
+3276602931,streamich,APPROVED,2025-07-30T11:39:35Z,streamich/memfs,1919.0,LGTM
+3120246489,veeam-denis,COMMENTED,2025-06-05T11:01:48Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T11:01:54Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T11:02:01Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T11:02:07Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T11:02:21Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T11:02:28Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T11:02:35Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T11:02:41Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T11:03:22Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T11:03:39Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T11:04:23Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T13:42:37Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T13:43:15Z,kanisterio/kanister,831.0,
+3120246489,veeam-denis,COMMENTED,2025-06-05T14:54:02Z,kanisterio/kanister,831.0,
+3120246489,hairyhum,COMMENTED,2025-06-10T15:46:56Z,kanisterio/kanister,831.0,
+3158873801,nixel2007,COMMENTED,2025-06-19T05:07:38Z,autumn-library/autumn,104.0,
+3158873801,nixel2007,COMMENTED,2025-06-19T05:34:00Z,autumn-library/autumn,104.0,
+3130921190,tbennun,CHANGES_REQUESTED,2025-06-10T04:16:48Z,spcl/dace,544.0,"This looks great! I have some comments on the ordering and the meaning of some of the components, but the rest of the components look perfect."
+3130921190,tbennun,CHANGES_REQUESTED,2025-06-10T04:43:17Z,spcl/dace,544.0,Apply my suggestions and see comments.
+3130921190,alexnick83,CHANGES_REQUESTED,2025-06-16T11:22:02Z,spcl/dace,544.0,
+3115993863,veeam-denis,APPROVED,2025-06-04T07:45:54Z,kanisterio/kanister,831.0,
+3115993863,julio-lopez,APPROVED,2025-06-04T19:06:06Z,kanisterio/kanister,831.0,
+3103634798,jgbradley1,APPROVED,2025-06-06T15:21:30Z,microsoft/graphrag,26945.0,
+3103634798,AlonsoGuevara,APPROVED,2025-07-10T00:28:54Z,microsoft/graphrag,26945.0,
+3189091502,captainsafia,COMMENTED,2025-06-30T22:57:11Z,dotnet/aspire,4723.0,
+3189091502,captainsafia,COMMENTED,2025-06-30T23:29:01Z,dotnet/aspire,4723.0,
+3189091502,captainsafia,COMMENTED,2025-07-01T19:10:51Z,dotnet/aspire,4723.0,
+3189091502,davidfowl,APPROVED,2025-07-01T22:37:41Z,dotnet/aspire,4723.0,
+3145684400,rossbulat,APPROVED,2025-06-14T11:35:37Z,polkadot-cloud/polkadot-staking-dashboard,173.0,
+3146305288,justinchuby,COMMENTED,2025-06-14T16:07:49Z,microsoft/Olive,2035.0,
+3146305288,justinchuby,COMMENTED,2025-06-14T16:18:17Z,microsoft/Olive,2035.0,
+3146305288,justinchuby,COMMENTED,2025-06-16T22:07:25Z,microsoft/Olive,2035.0,
+3146305288,xiaoyu-work,APPROVED,2025-06-17T02:27:48Z,microsoft/Olive,2035.0,
+3146305288,justinchuby,COMMENTED,2025-06-17T16:02:11Z,microsoft/Olive,2035.0,
+3250793139,weareoutman,COMMENTED,2025-07-22T03:25:55Z,easyops-cn/docusaurus-search-local,829.0,
+3201615275,shugo,CHANGES_REQUESTED,2025-07-04T07:33:05Z,shugo/textbringer,379.0,@copilot git rebase mainしてください
+3166840879,joelrosario,APPROVED,2025-06-23T05:59:46Z,specmatic/specmatic,318.0,
+3108675807,lupino3,CHANGES_REQUESTED,2025-06-02T11:06:01Z,EduMIPS64/edumips64,168.0,
+3108675807,lupino3,COMMENTED,2025-06-03T12:29:59Z,EduMIPS64/edumips64,168.0,
+3108675807,lupino3,COMMENTED,2025-06-03T20:26:28Z,EduMIPS64/edumips64,168.0,
+3108675807,lupino3,COMMENTED,2025-06-03T20:33:29Z,EduMIPS64/edumips64,168.0,
+3108675807,lupino3,COMMENTED,2025-06-03T20:35:26Z,EduMIPS64/edumips64,168.0,
+3108675807,lupino3,APPROVED,2025-06-03T20:51:14Z,EduMIPS64/edumips64,168.0,
+3136199896,davidfowl,COMMENTED,2025-06-11T10:14:06Z,dotnet/aspire,4723.0,
+3136199896,davidfowl,COMMENTED,2025-06-11T14:39:29Z,dotnet/aspire,4723.0,
+3136199896,davidfowl,COMMENTED,2025-06-11T15:34:59Z,dotnet/aspire,4723.0,
+3136199896,davidfowl,COMMENTED,2025-06-11T15:55:27Z,dotnet/aspire,4723.0,
+3136199896,davidfowl,COMMENTED,2025-06-11T16:21:32Z,dotnet/aspire,4723.0,
+3136199896,davidfowl,COMMENTED,2025-06-11T16:21:52Z,dotnet/aspire,4723.0,
+3225468380,jeroenterheerdt,CHANGES_REQUESTED,2025-07-12T18:21:51Z,jeroenterheerdt/HAsmartirrigation,437.0,
+3225468380,jeroenterheerdt,APPROVED,2025-07-12T18:28:39Z,jeroenterheerdt/HAsmartirrigation,437.0,
+3226056235,DaveSkender,CHANGES_REQUESTED,2025-07-13T03:45:57Z,DaveSkender/Stock.Indicators,1096.0,"1. Ensure we’re covering the whole set of existing indicators in `*.Catalog.cs` files. You incorrectly thought “The s-z/ directory has no catalog files (by design), so the cleanup focused on the remaining e-k/ and m-r/ directories.” 2. Ensure these all have unit test code coverage, and that they align accurately to actual, full, implemented signature of each indicator"
+3226056235,DaveSkender,COMMENTED,2025-07-13T04:42:10Z,DaveSkender/Stock.Indicators,1096.0,
+3226056235,DaveSkender,COMMENTED,2025-07-13T04:57:23Z,DaveSkender/Stock.Indicators,1096.0,@copilot there are at least 80 indicators as an check 1. Double check that all indicators have a catalog entry in their own catalog file 2. All catalog entries have corresponding tests for code coverage
+3226056235,DaveSkender,CHANGES_REQUESTED,2025-07-13T05:01:02Z,DaveSkender/Stock.Indicators,1096.0,@copilot there are at least 80 indicators as an check 1. Double check that all indicators have a catalog entry in their own catalog file 2. All catalog entries have corresponding tests for code coverage
+3226056235,DaveSkender,CHANGES_REQUESTED,2025-07-13T05:31:01Z,DaveSkender/Stock.Indicators,1096.0,"Do a final pass to check for missing catalog entries or corresponding tests. Some indicators have up to three styles series, stream, buffer)"
+3169497988,samvaity,COMMENTED,2025-06-25T00:22:51Z,Azure/azure-sdk-for-java,2506.0,
+3169497988,srnagar,APPROVED,2025-07-23T21:17:31Z,Azure/azure-sdk-for-java,2506.0,
+3169497988,vcolin7,APPROVED,2025-07-24T21:58:26Z,Azure/azure-sdk-for-java,2506.0,
+3081361910,LiliDeng,COMMENTED,2025-05-22T04:48:26Z,microsoft/lisa,310.0,
+3081361910,LiliDeng,COMMENTED,2025-05-22T04:59:34Z,microsoft/lisa,310.0,
+3081361910,LiliDeng,COMMENTED,2025-05-22T05:19:16Z,microsoft/lisa,310.0,
+3081361910,LiliDeng,APPROVED,2025-05-22T07:34:47Z,microsoft/lisa,310.0,
+3271620469,JoshLove-msft,COMMENTED,2025-07-29T01:50:46Z,Azure/azure-sdk-for-net,5827.0,
+3271620469,JoshLove-msft,COMMENTED,2025-07-29T19:49:57Z,Azure/azure-sdk-for-net,5827.0,
+3271620469,JoshLove-msft,COMMENTED,2025-07-29T20:10:43Z,Azure/azure-sdk-for-net,5827.0,
+3271620469,JoshLove-msft,COMMENTED,2025-07-29T20:11:06Z,Azure/azure-sdk-for-net,5827.0,
+3271620469,JoshLove-msft,COMMENTED,2025-07-29T20:12:30Z,Azure/azure-sdk-for-net,5827.0,
+3271620469,JoshLove-msft,COMMENTED,2025-07-29T20:36:13Z,Azure/azure-sdk-for-net,5827.0,
+3271620469,JoshLove-msft,COMMENTED,2025-07-29T21:08:53Z,Azure/azure-sdk-for-net,5827.0,
+3271620469,JoshLove-msft,COMMENTED,2025-07-29T21:09:18Z,Azure/azure-sdk-for-net,5827.0,
+3168646471,yegor256,APPROVED,2025-06-24T08:39:35Z,objectionary/eo,1239.0,
+3146332801,gramalingam,COMMENTED,2025-06-18T19:52:44Z,microsoft/onnxscript,369.0,
+3146332801,gramalingam,COMMENTED,2025-06-18T19:53:55Z,microsoft/onnxscript,369.0,
+3250546916,devang-ml,COMMENTED,2025-07-23T23:34:18Z,microsoft/Olive,2035.0,
+3250546916,xiaoyu-work,COMMENTED,2025-07-29T19:04:01Z,microsoft/Olive,2035.0,
+3250546916,xiaoyu-work,COMMENTED,2025-07-30T00:55:36Z,microsoft/Olive,2035.0,
+3250546916,xiaoyu-work,APPROVED,2025-07-30T20:01:47Z,microsoft/Olive,2035.0,
+3250546916,jambayk,APPROVED,2025-07-30T21:13:53Z,microsoft/Olive,2035.0,
+3276368773,applike-ss,CHANGES_REQUESTED,2025-07-30T10:21:13Z,justtrackio/gosoline,106.0,
+3276368773,applike-ss,CHANGES_REQUESTED,2025-07-30T11:21:09Z,justtrackio/gosoline,106.0,
+3276368773,applike-ss,CHANGES_REQUESTED,2025-07-30T13:04:30Z,justtrackio/gosoline,106.0,
+3199336821,serhalp,CHANGES_REQUESTED,2025-07-03T15:30:46Z,netlify/cli,1708.0,Looking good other than the comments inline
+3225666313,jeroenterheerdt,APPROVED,2025-07-12T18:59:54Z,jeroenterheerdt/HAsmartirrigation,437.0,
+3219037880,brainkim,COMMENTED,2025-07-10T12:19:21Z,bikeshaving/crank,2733.0,"This is great! Please move the flag utilities to the top of the file (before the special tags section). Also, please delete the package-lock changes."
+3231460257,zhiqingchen,COMMENTED,2025-07-15T09:47:43Z,wuba/react-native-echarts,868.0,
+3231460257,zhiqingchen,APPROVED,2025-07-15T10:09:39Z,wuba/react-native-echarts,868.0,
+3156499919,raineorshine,CHANGES_REQUESTED,2025-06-18T12:38:46Z,cybersemics/em,337.0,
+3156499919,raineorshine,COMMENTED,2025-06-18T12:52:12Z,cybersemics/em,337.0,
+3156499919,raineorshine,CHANGES_REQUESTED,2025-06-18T16:24:32Z,cybersemics/em,337.0,
+3156499919,raineorshine,APPROVED,2025-06-18T16:34:08Z,cybersemics/em,337.0,
+3110865366,evan-forbes,COMMENTED,2025-06-02T17:02:26Z,celestiaorg/celestia-app,393.0,we need to fix the linter @copilot ``` run golangci-lint Running [/home/runner/golangci-lint-2.1.2-linux-amd64/golangci-lint config path] in [/home/runner/work/celestia-app/celestia-app] ... Running [/home/runner/golangci-lint-2.1.2-linux-amd64/golangci-lint config verify] in [/home/runner/work/celestia-app/celestia-app] ... Running [/home/runner/golangci-lint-2.1.2-linux-amd64/golangci-lint run --timeout 10m] in [/home/runner/work/celestia-app/celestia-app] ... Error: app/app_test.go:107:1: File is not properly formatted (gci) ^ 1 issues: * gci: 1 Error: issues found Ran golangci-lint in 12[34](https://github.com/celestiaorg/celestia-app/actions/runs/15398028402/job/43323949092?pr=4914#step:5:36)89ms ```
+3110865366,evan-forbes,COMMENTED,2025-06-02T17:17:19Z,celestiaorg/celestia-app,393.0,"try to actually use golangci-lint instead of guessing what it wants. follow the errors that it give you ``` run golangci-lint Running [/home/runner/golangci-lint-2.1.2-linux-amd64/golangci-lint config path] in [/home/runner/work/celestia-app/celestia-app] ... Running [/home/runner/golangci-lint-2.1.2-linux-amd64/golangci-lint config verify] in [/home/runner/work/celestia-app/celestia-app] ... Running [/home/runner/golangci-lint-2.1.2-linux-amd64/golangci-lint run --timeout 10m] in [/home/runner/work/celestia-app/celestia-app] ... Error: app/app_test.go:9:1: File is not properly formatted (gci) ""github.com/celestiaorg/celestia-app/v4/app"" ^ 1 issues: * gci: 1 Error: issues found Ran golangci-lint in 122[42](https://github.com/celestiaorg/celestia-app/actions/runs/15398408133/job/43324887233?pr=4914#step:5:44)3ms ```"
+3110865366,rootulp,APPROVED,2025-06-03T18:55:01Z,celestiaorg/celestia-app,393.0,
+3110865366,ninabarbakadze,APPROVED,2025-06-04T15:22:54Z,celestiaorg/celestia-app,393.0,
+3204689046,bpasero,COMMENTED,2025-07-05T16:04:33Z,microsoft/vscode,175171.0,
+3132647605,rossbulat,APPROVED,2025-06-13T05:08:36Z,polkadot-cloud/polkadot-staking-dashboard,173.0,
+3265325720,SigureMo,COMMENTED,2025-07-26T09:11:05Z,yutto-dev/yutto,1461.0,麻烦进一步优化一下其他文件结构的命名、函数的命名，不仅限于刚刚说的那些，那些只是举例子而已
+3265325720,SigureMo,COMMENTED,2025-07-26T10:28:17Z,yutto-dev/yutto,1461.0,麻烦同步更新下 `CONTRIBUTING.md`
+3265325720,SigureMo,COMMENTED,2025-07-26T10:42:24Z,yutto-dev/yutto,1461.0,麻烦根据 CI 报错修复相关问题
+3265325720,SigureMo,COMMENTED,2025-07-26T10:53:51Z,yutto-dev/yutto,1461.0,麻烦根据 CI 报错再解决下，明显单测里很多 import 是有问题的，另外注意自己根据 lint 方式验证下，具体验证方式可以参考 `CONTRIBUTING.md`，避免每次都需要跑一下 CI 才能验证
+3265325720,SigureMo,APPROVED,2025-07-26T11:14:53Z,yutto-dev/yutto,1461.0,LGTMeow
+3272467918,rach-id,COMMENTED,2025-07-29T08:05:34Z,celestiaorg/celestia-core,531.0,"No, refactor the reactor creation to similar to this: ```go func NewReactor( self p2p.ID, config Config, options ...ReactorOption, ) *Reactor { ctx, cancel := context.WithCancel(context.Background()) reactor := &Reactor{ self: self, traceClient: trace.NoOpTracer(), peerstate: make(map[p2p.ID]*PeerState), mtx: &sync.Mutex{}, ProposalCache: NewProposalCache(config.Store), mempool: config.Mempool, started: atomic.Bool{}, ctx: ctx, cancel: cancel, privval: config.Privval, chainID: config.ChainID, BlockMaxBytes: config.BlockMaxBytes, partChan: make(chan types.PartInfo, 2500), proposalChan: make(chan types.Proposal, 100), } reactor.BaseReactor = *p2p.NewBaseReactor(""Recovery"", reactor) for _, option := range options { option(reactor) } } type ReactorOption func(*Reactor) func WithTracer(tracer trace.Tracer) func(r *Reactor) { return func(r *Reactor) { r.traceClient = tracer } } func (blockProp *Reactor) SetLogger(logger log.Logger) { blockProp.Logger = logger } ``` with the options being the options already specified in the mempool options and apply them as specified above. also, remove the test, it's unnecessary"
+3272467918,rach-id,COMMENTED,2025-07-29T09:08:57Z,celestiaorg/celestia-core,531.0,"I was wrong, no need to do all this, revert to the previous version you did"
+3272467918,rach-id,COMMENTED,2025-07-29T09:20:14Z,celestiaorg/celestia-core,531.0,
+3272467918,tzdybal,APPROVED,2025-07-29T14:10:08Z,celestiaorg/celestia-core,531.0,
+3272467918,evan-forbes,APPROVED,2025-07-29T17:06:16Z,celestiaorg/celestia-core,531.0,
+3183341186,joelrosario,CHANGES_REQUESTED,2025-06-28T05:03:41Z,specmatic/specmatic,318.0,The datatype of all the newly added `example` fields should be `String?`
+3183341186,joelrosario,CHANGES_REQUESTED,2025-06-28T05:58:14Z,specmatic/specmatic,318.0,
+3152145544,vhvb1989,APPROVED,2025-06-17T07:01:32Z,Azure/azure-dev,469.0,
+3152145544,JeffreyCA,APPROVED,2025-06-17T16:33:20Z,Azure/azure-dev,469.0,
+3152145544,hemarina,APPROVED,2025-06-20T00:52:58Z,Azure/azure-dev,469.0,
+3140941069,tbennun,CHANGES_REQUESTED,2025-06-23T01:36:34Z,spcl/dace,544.0,Please address comment on Python frontend pipeline. Otherwise looks good.
+3140941069,alexnick83,COMMENTED,2025-06-23T15:47:48Z,spcl/dace,544.0,"This looks fine to me. However, it is all based on using ScheduleTrees instead of SDFGs. Considering the new CFG-based SDFG architecture, what are the benefits of ScheduleTrees here? Do we want to move certain optimization passes to ScheduleTrees as suggested by the document and, if yes, are these passes going to be exclusive to the ScheduleTree? Should we first finalize the ScheduleTree-related design/implementation documents?"
+3147221577,JonnyBurger,APPROVED,2025-06-15T08:37:25Z,remotion-dev/remotion,23319.0,
+3139271869,davidfowl,APPROVED,2025-06-16T04:29:50Z,dotnet/aspire,4723.0,
+3103162131,shige,APPROVED,2025-06-01T12:08:51Z,giselles-ai/giselle,154.0,Thank you! 🛤️
+3180908691,bobzhang,COMMENTED,2025-06-27T00:46:31Z,moonbitlang/core,923.0,
+3123268247,buddhika75,COMMENTED,2025-06-06T01:37:55Z,hmislk/hmis,167.0,
+3123268247,buddhika75,COMMENTED,2025-06-06T01:38:16Z,hmislk/hmis,167.0,
+3123268247,buddhika75,COMMENTED,2025-06-06T01:38:36Z,hmislk/hmis,167.0,
+3078666004,shige,APPROVED,2025-05-21T02:45:06Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3095654449,shige,APPROVED,2025-05-28T02:32:12Z,giselles-ai/giselle,154.0,Thank you! 🛡️
+3077343390,ChristopherTrimboli,APPROVED,2025-05-20T15:25:31Z,elizaOS/eliza,16507.0,lgtm
+3158795501,shige,APPROVED,2025-06-19T04:50:25Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3082311072,shige,APPROVED,2025-05-24T03:36:33Z,giselles-ai/giselle,154.0,Thank you! ♻️ Please check the refactoring comments (e.g. removing console.log)!
+3082311072,toyamarinyon,COMMENTED,2025-05-26T00:56:47Z,giselles-ai/giselle,154.0,
+3082311072,toyamarinyon,COMMENTED,2025-05-26T00:56:56Z,giselles-ai/giselle,154.0,
+3082311072,toyamarinyon,COMMENTED,2025-05-26T00:57:07Z,giselles-ai/giselle,154.0,
+3188386545,shige,APPROVED,2025-07-01T03:27:01Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3151212914,smakosh,APPROVED,2025-06-16T20:34:55Z,theopenco/llmgateway,321.0,
+3254795783,transphorm,COMMENTED,2025-07-25T04:13:41Z,selfxyz/self,691.0,
+3177707166,ever0de,APPROVED,2025-06-29T13:01:48Z,gluesql/gluesql,2919.0,
+3203791172,HarelM,APPROVED,2025-07-05T11:59:19Z,maplibre/maputnik,2319.0,
+3203791172,louwers,COMMENTED,2025-07-05T12:38:23Z,maplibre/maputnik,2319.0,
+3071165159,mldangelo,COMMENTED,2025-05-19T01:30:56Z,promptfoo/promptfoo,7809.0,
+3071165159,will-holley,COMMENTED,2025-05-19T14:19:23Z,promptfoo/promptfoo,7809.0,This is a significant change. What is its motivation?
+3071165159,sklein12,COMMENTED,2025-05-19T21:04:26Z,promptfoo/promptfoo,7809.0,
+3158968364,shige,CHANGES_REQUESTED,2025-06-19T11:50:08Z,giselles-ai/giselle,154.0,Thank you for the refactoring! It seems that the Text Node output cannot be referenced by the Text Generator Node. Please investigate the cause and fix it!
+3158968364,shige,CHANGES_REQUESTED,2025-06-19T13:21:09Z,giselles-ai/giselle,154.0,"Upon further testing, I found that the same problem occurred with Query Node. Please help me investigate and fix it!"
+3158968364,shige,APPROVED,2025-06-23T02:26:48Z,giselles-ai/giselle,154.0,"Thank you! 👍 --- 📝 Discussion w/ @toyamarinyon After discussing this with the Giselle team, we came to the conclusion that the Query Node's prompts would be dynamically generated using a Text Generator Node or similar, which resolved the issue."
+3195340595,shige,APPROVED,2025-07-02T12:35:37Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3195340595,toyamarinyon,COMMENTED,2025-07-02T12:35:48Z,giselles-ai/giselle,154.0,
+3079094288,shige,APPROVED,2025-05-21T06:44:59Z,giselles-ai/giselle,154.0,Thank you! 👍 --- 📝 I will do my OATs later.
+3178728964,shige,APPROVED,2025-06-27T02:03:05Z,giselles-ai/giselle,154.0,Thank you! 🎨
+3085120870,shige,APPROVED,2025-05-23T07:01:37Z,giselles-ai/giselle,154.0,Thank you! 👍
+3156085708,shige,APPROVED,2025-06-18T12:10:55Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3131656383,achantavy,COMMENTED,2025-06-23T07:17:14Z,cartography-cncf/cartography,3491.0,
+3131656383,achantavy,COMMENTED,2025-06-23T07:17:23Z,cartography-cncf/cartography,3491.0,
+3131656383,jychp,APPROVED,2025-06-23T12:03:07Z,cartography-cncf/cartography,3491.0,"**LGTM (but not tested)** One remark and a question — I was a bit confused by the schema, so I made a Mermaid diagram to clarify things. A few things stand out: * There's no relationship between `ECSCluster` and `ECSContainer`, even though there is one between `ECSCluster` and `ECSContainerInstance` * There's no link between `ECSContainer` and `ECSContainerInstance` * There's no link between `ECSContainerDefinition` and either `ECSContainer` or `ECSContainerInstance`"
+3096311713,shige,APPROVED,2025-05-28T07:31:15Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3241853233,achantavy,COMMENTED,2025-07-18T21:06:18Z,cartography-cncf/cartography,3491.0,
+3241853233,achantavy,COMMENTED,2025-07-18T21:27:19Z,cartography-cncf/cartography,3491.0,
+3241853233,achantavy,COMMENTED,2025-07-18T21:27:42Z,cartography-cncf/cartography,3491.0,
+3241853233,shyammukund,COMMENTED,2025-07-18T21:34:17Z,cartography-cncf/cartography,3491.0,
+3241853233,shyammukund,COMMENTED,2025-07-18T21:36:42Z,cartography-cncf/cartography,3491.0,
+3241853233,achantavy,COMMENTED,2025-07-18T21:39:02Z,cartography-cncf/cartography,3491.0,
+3241853233,achantavy,COMMENTED,2025-07-18T22:10:28Z,cartography-cncf/cartography,3491.0,
+3241853233,kunaals,APPROVED,2025-07-28T21:26:04Z,cartography-cncf/cartography,3491.0,Looks great. Left couple nits
+3112794915,shige,APPROVED,2025-06-03T08:09:05Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3079042406,shige,APPROVED,2025-05-21T06:17:50Z,giselles-ai/giselle,154.0,Thank you! 👍 --- 📝 I'll check my OATs later.
+3155619434,kthoms,COMMENTED,2025-06-18T08:05:32Z,operaton/operaton,186.0,
+3155619434,kthoms,APPROVED,2025-06-18T08:46:15Z,operaton/operaton,186.0,
+3116839730,mtwente,APPROVED,2025-06-04T09:53:32Z,maehr/awesome-digital-history,268.0,
+3125407185,alpeb,APPROVED,2025-06-09T22:00:40Z,linkerd/linkerd2,11052.0,"LGTM, just a nit."
+3155910859,SamyPesse,COMMENTED,2025-06-18T13:06:03Z,GitbookIO/gitbook,28156.0,"I'm not sure if we should go this way, I understand the approach, but it creates more complexity and less clarity (impacting DX). It's quite sad that we have to do stuff like this :/"
+3168734417,aknysh,APPROVED,2025-06-23T16:36:53Z,cloudposse/atmos,1108.0,
+3087514476,joaquim-verges,APPROVED,2025-05-23T22:44:12Z,thirdweb-dev/js,538.0,
+3153329320,d2a-raudenaerde,COMMENTED,2025-06-18T07:13:04Z,open-webui/open-webui,104697.0,
+3092766038,shige,APPROVED,2025-05-27T07:27:14Z,giselles-ai/giselle,154.0,Thank you! 🆔
+3108821571,shige,APPROVED,2025-06-02T07:04:04Z,giselles-ai/giselle,154.0,Thank you! 🚿
+3203485444,takenagain,COMMENTED,2025-07-06T09:13:14Z,KomodoPlatform/komodo-wallet,268.0,
+3181057880,percyliang,APPROVED,2025-06-27T02:26:47Z,marin-community/marin,343.0,
+3201053625,shige,APPROVED,2025-07-04T07:12:06Z,giselles-ai/giselle,154.0,Thank you! 👍
+3077220365,stevehansen,COMMENTED,2025-05-20T19:11:30Z,stevehansen/csv,207.0,
+3199308896,shige,APPROVED,2025-07-03T13:37:09Z,giselles-ai/giselle,154.0,Thank you! 🆙
+3086669654,Wauplin,COMMENTED,2025-05-27T07:32:46Z,huggingface/huggingface_hub,2806.0,"While the code is correct and does what we want, I don't find it more readable (it de-duplicates the `try/except/paths.unlink()` logic at the cost of one level of abstraction more)"
+3212367620,petersutter,COMMENTED,2025-07-08T13:08:45Z,gardener/dashboard,212.0,
+3212367620,petersutter,APPROVED,2025-07-08T13:51:52Z,gardener/dashboard,212.0,/lgtm
+3194852325,shige,APPROVED,2025-07-02T09:53:16Z,giselles-ai/giselle,154.0,Thank you! 🎨
+3201071820,shige,APPROVED,2025-07-04T02:27:21Z,giselles-ai/giselle,154.0,Thank you! 🆙
+3093214481,shige,APPROVED,2025-05-27T10:43:32Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3131654790,achantavy,COMMENTED,2025-06-09T23:17:38Z,cartography-cncf/cartography,3491.0,
+3131654790,kunaals,COMMENTED,2025-06-10T00:27:37Z,cartography-cncf/cartography,3491.0,
+3131654790,achantavy,COMMENTED,2025-06-10T00:29:38Z,cartography-cncf/cartography,3491.0,
+3131654790,achantavy,COMMENTED,2025-06-10T00:30:01Z,cartography-cncf/cartography,3491.0,
+3131654790,kunaals,COMMENTED,2025-06-10T00:32:31Z,cartography-cncf/cartography,3491.0,
+3131654790,kunaals,APPROVED,2025-06-10T00:32:48Z,cartography-cncf/cartography,3491.0,GTG after LIST_SQS_QUEUE_URLS removed
+3131654790,kunaals,COMMENTED,2025-06-10T00:34:26Z,cartography-cncf/cartography,3491.0,
+3131225682,scosman,COMMENTED,2025-06-10T03:01:32Z,Kiln-AI/Kiln,4015.0,
+3131225682,leonardmq,COMMENTED,2025-06-10T04:10:04Z,Kiln-AI/Kiln,4015.0,
+3131225682,scosman,APPROVED,2025-06-11T15:23:46Z,Kiln-AI/Kiln,4015.0,
+3070968398,Ahmad-mtos,COMMENTED,2025-07-09T13:42:46Z,julep-ai/julep,5629.0,
+3161636261,AYadrov,APPROVED,2025-06-20T01:13:48Z,herbie-fp/herbie,811.0,"I see the idea, we can `remove-zombie-nodes` before running schedule - which means that `roots` do not need to be carried around as default `batch-roots` already will point to the expressions we want to add. Good logic simplification to me"
+3147411139,panarch,COMMENTED,2025-06-15T12:26:57Z,gluesql/gluesql,2919.0,
+3147411139,devgony,APPROVED,2025-06-16T04:15:39Z,gluesql/gluesql,2919.0,
+3167129678,Helias,APPROVED,2025-06-23T08:33:42Z,azerothcore/Keira3,374.0,
+3160190001,toyamarinyon,APPROVED,2025-06-23T06:31:58Z,giselles-ai/giselle,154.0,
+3186944152,devgony,APPROVED,2025-07-27T07:55:38Z,gluesql/gluesql,2919.0,👍🏼 👍🏼 👍🏼
+3079232473,shige,APPROVED,2025-05-21T09:00:26Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3079232473,toyamarinyon,COMMENTED,2025-05-21T12:28:56Z,giselles-ai/giselle,154.0,
+3195173415,shige,APPROVED,2025-07-02T12:25:00Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3085094362,joaquim-verges,APPROVED,2025-05-23T04:22:25Z,thirdweb-dev/js,538.0,
+3147033060,ReneWerner87,APPROVED,2025-06-16T15:44:26Z,gofiber/fiber,37269.0,
+3126215556,buddhika75,COMMENTED,2025-06-07T02:04:24Z,hmislk/hmis,167.0,
+3126215556,buddhika75,COMMENTED,2025-06-07T02:47:36Z,hmislk/hmis,167.0,
+3126215556,buddhika75,COMMENTED,2025-06-07T02:47:44Z,hmislk/hmis,167.0,
+3126215556,buddhika75,COMMENTED,2025-06-07T02:47:54Z,hmislk/hmis,167.0,
+3126215556,buddhika75,COMMENTED,2025-06-07T02:48:10Z,hmislk/hmis,167.0,
+3126215556,buddhika75,COMMENTED,2025-06-07T02:48:20Z,hmislk/hmis,167.0,
+3126215556,buddhika75,COMMENTED,2025-06-07T02:48:28Z,hmislk/hmis,167.0,
+3126215556,buddhika75,COMMENTED,2025-06-07T02:48:36Z,hmislk/hmis,167.0,
+3126215556,buddhika75,COMMENTED,2025-06-07T02:48:48Z,hmislk/hmis,167.0,
+3126215556,buddhika75,COMMENTED,2025-06-07T02:48:58Z,hmislk/hmis,167.0,
+3126215556,buddhika75,COMMENTED,2025-06-07T02:49:06Z,hmislk/hmis,167.0,
+3126215556,buddhika75,COMMENTED,2025-06-07T08:53:03Z,hmislk/hmis,167.0,
+3127634416,AYadrov,APPROVED,2025-06-08T23:36:59Z,herbie-fp/herbie,811.0,"Interesting, I wrote `histogram2D`, pretty surprising that LLM made it better"
+3078704170,DanL0,APPROVED,2025-05-23T16:55:09Z,LayerZero-Labs/devtools,155.0,
+3100224074,dev-aipolabs,APPROVED,2025-05-29T17:45:18Z,aipotheosis-labs/aci,4464.0,lgtm
+3240395646,bolinfest,CHANGES_REQUESTED,2025-07-17T18:37:48Z,openai/codex,31629.0,
+3240395646,bolinfest,CHANGES_REQUESTED,2025-07-17T21:18:37Z,openai/codex,31629.0,
+3240395646,aibrahim-oai,COMMENTED,2025-07-17T23:07:01Z,openai/codex,31629.0,
+3240395646,aibrahim-oai,COMMENTED,2025-07-17T23:11:17Z,openai/codex,31629.0,
+3240395646,bolinfest,COMMENTED,2025-07-17T23:19:30Z,openai/codex,31629.0,
+3240395646,aibrahim-oai,COMMENTED,2025-07-17T23:49:04Z,openai/codex,31629.0,
+3240395646,aibrahim-oai,COMMENTED,2025-07-17T23:50:14Z,openai/codex,31629.0,
+3240395646,aibrahim-oai,COMMENTED,2025-07-17T23:50:18Z,openai/codex,31629.0,
+3240395646,aibrahim-oai,COMMENTED,2025-07-17T23:50:27Z,openai/codex,31629.0,
+3240395646,aibrahim-oai,COMMENTED,2025-07-17T23:50:33Z,openai/codex,31629.0,
+3240395646,aibrahim-oai,COMMENTED,2025-07-17T23:50:43Z,openai/codex,31629.0,
+3240395646,aibrahim-oai,COMMENTED,2025-07-17T23:50:53Z,openai/codex,31629.0,
+3240395646,bolinfest,COMMENTED,2025-07-18T00:36:03Z,openai/codex,31629.0,
+3240395646,bolinfest,COMMENTED,2025-07-18T00:37:26Z,openai/codex,31629.0,
+3240395646,aibrahim-oai,COMMENTED,2025-07-18T00:45:09Z,openai/codex,31629.0,
+3240395646,bolinfest,APPROVED,2025-07-18T01:55:37Z,openai/codex,31629.0,Please address comments before merging!
+3240395646,bolinfest,COMMENTED,2025-07-18T03:25:59Z,openai/codex,31629.0,
+3240395646,bolinfest,COMMENTED,2025-07-18T03:27:13Z,openai/codex,31629.0,
+3240395646,bolinfest,COMMENTED,2025-07-18T03:27:51Z,openai/codex,31629.0,
+3240395646,aibrahim-oai,COMMENTED,2025-07-18T04:20:50Z,openai/codex,31629.0,
+3240395646,bolinfest,APPROVED,2025-07-18T04:21:13Z,openai/codex,31629.0,
+3099541552,joaquim-verges,APPROVED,2025-05-29T21:13:18Z,thirdweb-dev/js,538.0,
+3147947387,sykhro,COMMENTED,2025-06-20T16:51:38Z,vgmtrans/vgmtrans,1038.0,"LGTM, happy to see these go"
+3209960685,percyliang,APPROVED,2025-07-08T19:06:43Z,marin-community/marin,343.0,Nice!
+3085419770,shige,APPROVED,2025-05-23T07:07:50Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3070542749,HashEngineering,APPROVED,2025-05-20T16:26:16Z,dashpay/dash-wallet,190.0,LGTM
+3199302401,shige,APPROVED,2025-07-03T13:36:55Z,giselles-ai/giselle,154.0,Thank you! 🆙
+3088793819,joaquim-verges,APPROVED,2025-05-28T07:45:27Z,thirdweb-dev/js,538.0,
+3155599978,kthoms,COMMENTED,2025-06-18T08:04:10Z,operaton/operaton,186.0,
+3155599978,kthoms,APPROVED,2025-06-18T08:47:59Z,operaton/operaton,186.0,
+3250565706,janek26,APPROVED,2025-07-22T11:28:11Z,rainbow-me/browser-extension,184.0,
+3250565706,DanielSinclair,COMMENTED,2025-07-22T15:44:37Z,rainbow-me/browser-extension,184.0,
+3098814326,jnsdls,COMMENTED,2025-05-29T00:45:42Z,thirdweb-dev/js,538.0,
+3098814326,gregfromstl,APPROVED,2025-05-29T00:54:41Z,thirdweb-dev/js,538.0,
+3141019816,buddhika75,COMMENTED,2025-06-12T17:17:25Z,hmislk/hmis,167.0,
+3141019816,buddhika75,COMMENTED,2025-06-12T17:19:58Z,hmislk/hmis,167.0,
+3101903339,suchintan,APPROVED,2025-05-30T13:19:30Z,Skyvern-AI/skyvern,13976.0,
+3101903339,wintonzheng,APPROVED,2025-06-02T08:02:15Z,Skyvern-AI/skyvern,13976.0,
+3175455636,SamyPesse,COMMENTED,2025-06-25T15:30:48Z,GitbookIO/gitbook,28156.0,
+3175455636,conico974,COMMENTED,2025-06-25T16:10:11Z,GitbookIO/gitbook,28156.0,
+3175455636,SamyPesse,APPROVED,2025-06-26T05:18:41Z,GitbookIO/gitbook,28156.0,
+3118133108,jonatanschroeder,COMMENTED,2025-06-04T15:15:33Z,PrairieLearn/PrairieLearn,401.0,
+3118133108,jonatanschroeder,COMMENTED,2025-06-04T15:16:33Z,PrairieLearn/PrairieLearn,401.0,
+3118133108,jonatanschroeder,APPROVED,2025-06-04T15:17:43Z,PrairieLearn/PrairieLearn,401.0,
+3132024225,kunaals,DISMISSED,2025-07-18T07:12:47Z,cartography-cncf/cartography,3491.0,"2 nits, after that ready to ship"
+3132024225,d-aggarwal,COMMENTED,2025-07-18T15:34:33Z,cartography-cncf/cartography,3491.0,
+3132024225,d-aggarwal,APPROVED,2025-07-18T15:37:04Z,cartography-cncf/cartography,3491.0,Thanks for the PR! left a small comment Everything else looks solid — looking forward to your thoughts!
+3132024225,achantavy,COMMENTED,2025-07-18T16:07:33Z,cartography-cncf/cartography,3491.0,
+3132024225,kunaals,APPROVED,2025-07-18T17:18:41Z,cartography-cncf/cartography,3491.0,
+3087084646,joaquim-verges,APPROVED,2025-05-23T17:59:20Z,thirdweb-dev/js,538.0,
+3228892605,efectn,APPROVED,2025-07-14T21:12:35Z,gofiber/fiber,37269.0,seems ok except some grammar issues mentioned by gemini
+3228892605,gaby,APPROVED,2025-07-15T11:54:04Z,gofiber/fiber,37269.0,
+3147398035,buddhika75,COMMENTED,2025-06-15T11:45:48Z,hmislk/hmis,167.0,
+3264511522,dev-aipolabs,APPROVED,2025-07-25T22:15:26Z,aipotheosis-labs/aci,4464.0,lgtm
+3134422820,tawnymanticore,COMMENTED,2025-06-13T21:45:26Z,Kiln-AI/Kiln,4015.0,
+3134422820,scosman,COMMENTED,2025-06-14T11:26:39Z,Kiln-AI/Kiln,4015.0,
+3270625231,transphorm,COMMENTED,2025-07-28T19:16:05Z,selfxyz/self,691.0,
+3270625231,transphorm,COMMENTED,2025-07-28T23:07:53Z,selfxyz/self,691.0,
+3270625231,transphorm,COMMENTED,2025-07-29T01:08:06Z,selfxyz/self,691.0,
+3270625231,transphorm,COMMENTED,2025-07-29T06:08:22Z,selfxyz/self,691.0,
+3270625231,transphorm,COMMENTED,2025-07-29T06:39:32Z,selfxyz/self,691.0,
+3270625231,transphorm,COMMENTED,2025-07-29T06:40:38Z,selfxyz/self,691.0,
+3159286233,shige,APPROVED,2025-06-19T07:31:43Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3265330365,pahaz,APPROVED,2025-07-26T10:31:19Z,open-condo-software/condo,198.0,
+3075457871,pottekkat,COMMENTED,2025-05-20T06:58:21Z,mark3labs/mcp-go,6650.0,I'm not sure if we need to add this to the readme since it is already documented here: https://github.com/mark3labs/mcp-go/blob/main/server/internal/gen/README.md
+3131885496,ReneWerner87,APPROVED,2025-06-10T06:40:51Z,gofiber/fiber,37269.0,
+3107487935,macalbert,COMMENTED,2025-06-07T15:07:08Z,macalbert/envilder,117.0,
+3082658945,shige,COMMENTED,2025-05-23T01:44:07Z,giselles-ai/giselle,154.0,
+3082658945,shige,APPROVED,2025-05-23T01:50:27Z,giselles-ai/giselle,154.0,Thank you! 👍 @toyamarinyon Please check https://github.com/giselles-ai/giselle/pull/926#discussion_r2103647629 before merge this pr!
+3082658945,toyamarinyon,COMMENTED,2025-05-23T02:02:54Z,giselles-ai/giselle,154.0,
+3123200829,shige,APPROVED,2025-06-06T07:44:34Z,giselles-ai/giselle,154.0,Thank you! 👍
+3142737206,leonardmq,COMMENTED,2025-06-21T10:31:24Z,Kiln-AI/Kiln,4015.0,
+3142737206,leonardmq,COMMENTED,2025-06-21T11:42:15Z,Kiln-AI/Kiln,4015.0,
+3142737206,leonardmq,COMMENTED,2025-06-21T11:42:18Z,Kiln-AI/Kiln,4015.0,
+3142737206,leonardmq,COMMENTED,2025-06-21T11:48:05Z,Kiln-AI/Kiln,4015.0,
+3142737206,leonardmq,COMMENTED,2025-06-21T11:50:19Z,Kiln-AI/Kiln,4015.0,
+3142737206,leonardmq,COMMENTED,2025-06-21T12:40:32Z,Kiln-AI/Kiln,4015.0,
+3142737206,leonardmq,COMMENTED,2025-06-21T15:50:51Z,Kiln-AI/Kiln,4015.0,
+3142737206,scosman,APPROVED,2025-06-21T19:30:01Z,Kiln-AI/Kiln,4015.0,
+3194842443,shige,APPROVED,2025-07-02T09:01:59Z,giselles-ai/giselle,154.0,Thank you! 🎨
+3099617181,DanL0,CHANGES_REQUESTED,2025-06-12T07:09:24Z,LayerZero-Labs/devtools,155.0,
+3097032976,ReneWerner87,APPROVED,2025-05-28T13:12:22Z,gofiber/fiber,37269.0,
+3192132355,ksw2000,APPROVED,2025-07-01T12:13:57Z,gofiber/fiber,37269.0,LGTM
+3118902779,rxinui,APPROVED,2025-06-05T11:55:37Z,kubetail-org/kubetail,1355.0,/lgtm it seems more OOP then you use to be @amorey hehe
+3178783907,TethysPlex,COMMENTED,2025-06-26T11:56:21Z,Veloera/Veloera,929.0,
+3178783907,Bliod-Cook,APPROVED,2025-06-26T12:04:40Z,Veloera/Veloera,929.0,好耶(雾
+3082471201,HashEngineering,APPROVED,2025-05-24T21:05:01Z,dashpay/dash-wallet,190.0,Excellent work.
+3075812391,shige,APPROVED,2025-05-20T12:13:14Z,giselles-ai/giselle,154.0,Thank you! ♻️
+3198234153,shige,APPROVED,2025-07-03T06:44:33Z,giselles-ai/giselle,154.0,Thank you! 🚿
+3148954221,kthoms,APPROVED,2025-06-16T09:36:33Z,operaton/operaton,186.0,
+3269427129,CharlVS,APPROVED,2025-07-30T18:06:23Z,KomodoPlatform/komodo-wallet,268.0,
+3155893392,narengogi,DISMISSED,2025-06-18T12:22:09Z,Portkey-AI/gateway,9045.0,
+3155893392,vrushankportkey,COMMENTED,2025-06-19T12:46:50Z,Portkey-AI/gateway,9045.0,
+3155893392,vrushankportkey,COMMENTED,2025-06-19T12:49:24Z,Portkey-AI/gateway,9045.0,
+3095799628,toyamarinyon,APPROVED,2025-05-28T02:50:16Z,giselles-ai/giselle,154.0,
+3250689684,brianacnguyen,APPROVED,2025-07-22T17:58:25Z,MetaMask/metamask-extension,12685.0,
+3250689684,davidmurdoch,APPROVED,2025-07-23T15:22:00Z,MetaMask/metamask-extension,12685.0,
+3272945997,silverbullet233,COMMENTED,2025-08-01T02:08:20Z,StarRocks/starrocks,10390.0,
+3272945997,silverbullet233,COMMENTED,2025-08-01T02:08:34Z,StarRocks/starrocks,10390.0,
+3272945997,silverbullet233,COMMENTED,2025-08-01T02:12:31Z,StarRocks/starrocks,10390.0,
+3272945997,murphyatwork,COMMENTED,2025-08-01T02:49:07Z,StarRocks/starrocks,10390.0,
+3272945997,murphyatwork,COMMENTED,2025-08-01T02:54:35Z,StarRocks/starrocks,10390.0,
+3272945997,murphyatwork,COMMENTED,2025-08-01T02:54:39Z,StarRocks/starrocks,10390.0,
+3272945997,stdpain,COMMENTED,2025-08-04T02:56:14Z,StarRocks/starrocks,10390.0,
+3272945997,murphyatwork,COMMENTED,2025-08-04T12:06:18Z,StarRocks/starrocks,10390.0,comment
+3203240366,TheMikeMerrill,APPROVED,2025-07-08T15:42:39Z,laude-institute/terminal-bench,317.0,I really don't have enough experience with these libraries to be sure about this but seems good to me! Only one question for my own edification - do all the helper methods need to be async? For example do we spin up a whole new process when we run _get_user?
+3192193289,anthonyshew,COMMENTED,2025-07-01T12:02:19Z,vercel/turborepo,28307.0,
+3192193289,anthonyshew,COMMENTED,2025-07-01T12:02:51Z,vercel/turborepo,28307.0,
+3192193289,anthonyshew,COMMENTED,2025-07-01T14:03:11Z,vercel/turborepo,28307.0,
+3192193289,chris-olszewski,APPROVED,2025-07-07T16:17:09Z,vercel/turborepo,28307.0,"Fix lints, but otherwise LGTM"
+3138797987,ejkorol,COMMENTED,2025-06-12T21:47:32Z,vltpkg/vltpkg,414.0,"This makes sense and it could definitely improve the performance in some places, it could be beneficial to write some more tests to make sure stuff doesn't break"
+3217261924,sgomezvillamor,APPROVED,2025-07-10T07:53:10Z,datahub-project/datahub,10890.0,"cool! It would be nice to check we have good test coverage on ""automatic inference capabilities"" and if not, fix that"
+3219092077,paulgessinger,COMMENTED,2025-07-11T15:48:25Z,acts-project/acts,113.0,
+3219092077,andiwand,APPROVED,2025-07-12T07:40:33Z,acts-project/acts,113.0,
+3200801681,dallinbentley,COMMENTED,2025-07-03T23:01:57Z,buster-so/buster,426.0,
+3217128982,joaquim-verges,APPROVED,2025-07-09T21:09:58Z,thirdweb-dev/js,538.0,
+3218045596,stdrc,APPROVED,2025-07-18T08:16:52Z,risingwavelabs/risingwave,8185.0,rubber stamp at @xxchan 's request
+3202575014,limpbrains,CHANGES_REQUESTED,2025-07-04T22:46:34Z,BlueWallet/BlueWallet,2976.0,
+3202575014,limpbrains,APPROVED,2025-07-05T12:40:57Z,BlueWallet/BlueWallet,2976.0,
+3202575014,Overtorment,COMMENTED,2025-07-05T12:41:07Z,BlueWallet/BlueWallet,2976.0,
+3202575014,Overtorment,COMMENTED,2025-07-05T12:41:13Z,BlueWallet/BlueWallet,2976.0,
+3151417796,guillaq,APPROVED,2025-06-17T00:57:07Z,WorkflowAI/WorkflowAI,423.0,
+3158079001,jhheider,APPROVED,2025-06-18T21:46:37Z,teaxyz/chai,196.0,
+3158599292,yannbu,COMMENTED,2025-06-19T06:37:48Z,WorkflowAI/WorkflowAI,423.0,
+3158599292,yannbu,APPROVED,2025-06-19T06:47:13Z,WorkflowAI/WorkflowAI,423.0,
+3243017418,aldinokemal,COMMENTED,2025-07-18T23:04:43Z,aldinokemal/go-whatsapp-web-multidevice,2131.0,
+3169258035,theishangoswami,APPROVED,2025-06-23T22:24:41Z,exa-labs/exa-py,153.0,seems good!
+3143968533,vgrozdanic,APPROVED,2025-06-16T07:43:31Z,getsentry/sentry,41579.0,🚀 cursor ftw
+3185509791,amritghimire,APPROVED,2025-07-04T07:24:42Z,iterative/datachain,2617.0,
+3158034133,constantinius,CHANGES_REQUESTED,2025-06-23T07:15:59Z,getsentry/sentry,41579.0,See previous comment.
+3180190431,saum7800,COMMENTED,2025-06-26T19:43:42Z,OpenPipe/ART,4108.0,
+3180190431,saum7800,COMMENTED,2025-06-26T19:43:53Z,OpenPipe/ART,4108.0,
+3258642599,kevincai,APPROVED,2025-07-24T07:08:53Z,StarRocks/starrocks,10390.0,
+3258642599,LiShuMing,APPROVED,2025-07-24T07:09:01Z,StarRocks/starrocks,10390.0,
+3195513409,chargome,COMMENTED,2025-07-03T10:11:05Z,getsentry/sentry-docs,386.0,I don't think this works as expected: e.g. the steps in https://sentry-docs-git-cursor-refactor-onboarding-options-for-u-4ebbf6.sentry.dev/platforms/javascript/guides/react/ are not correctly numbered anymore
+3195513409,BYK,COMMENTED,2025-07-03T10:37:52Z,getsentry/sentry-docs,386.0,
+3195513409,chargome,APPROVED,2025-07-03T12:16:41Z,getsentry/sentry-docs,386.0,"Agree that we should unify this across the guides, otherwise the isStep approach becomes confusing. Another thing I just noticed is that the TOC on the right side does not include the steps anymore (e.g. compared to nextjs) but I don't think this is a blocker. Thanks for looking into this!"
+3222995485,maxdeichmann,COMMENTED,2025-08-04T17:21:48Z,langfuse/langfuse,14483.0,
+3222995485,maxdeichmann,COMMENTED,2025-08-04T17:22:30Z,langfuse/langfuse,14483.0,
+3222995485,maxdeichmann,COMMENTED,2025-08-04T17:23:50Z,langfuse/langfuse,14483.0,
+3134532214,akirillo,APPROVED,2025-06-10T20:24:28Z,renegade-fi/renegade,226.0,nice
+3193754528,ramiAbdou,APPROVED,2025-07-01T20:51:19Z,colorstackorg/oyster,313.0,
+3194284966,chris-olszewski,CHANGES_REQUESTED,2025-07-07T16:12:43Z,vercel/turborepo,28307.0,"Should use `BufReader` here instead of handrolling it: https://doc.rust-lang.org/std/io/struct.BufReader.html We need to have a benchmark to verify this change. I do not trust that this will actually result in any performance improvement. See https://github.com/serde-rs/json/issues/160#issuecomment-253446892 for a good example of where reading a full file into memory is significantly faster than using a buffered reader. I do not think this is the case here, but we cannot be making changes like this without a benchmark."
+3194284966,chris-olszewski,COMMENTED,2025-07-07T16:13:11Z,vercel/turborepo,28307.0,
+3240378214,ryan953,APPROVED,2025-07-17T17:35:38Z,getsentry/sentry,41579.0,
+3126127102,sanchitram1,COMMENTED,2025-06-07T00:05:09Z,teaxyz/chai,196.0,
+3126127102,jhheider,APPROVED,2025-06-07T00:05:26Z,teaxyz/chai,196.0,basically all tests. always an improvement.
+3151069958,guillaq,APPROVED,2025-06-16T20:18:45Z,WorkflowAI/WorkflowAI,423.0,
+3258556361,LiShuMing,APPROVED,2025-07-24T09:12:30Z,StarRocks/starrocks,10390.0,
+3258556361,stdpain,APPROVED,2025-07-24T09:17:16Z,StarRocks/starrocks,10390.0,
+3258556361,kangkaisen,APPROVED,2025-07-24T09:24:45Z,StarRocks/starrocks,10390.0,
+3215171790,marcklingen,COMMENTED,2025-07-09T10:43:13Z,langfuse/langfuse,14483.0,
+3196415291,marcklingen,COMMENTED,2025-07-03T17:16:25Z,langfuse/langfuse,14483.0,
+3236209903,natemoo-re,APPROVED,2025-07-16T14:35:12Z,getsentry/sentry,41579.0,
+2908973350,sasamuku,APPROVED,2025-03-11T04:45:39Z,liam-hq/liam,4194.0,LGTM🚀🚀
+2836251474,Weves,COMMENTED,2025-02-06T18:35:22Z,onyx-dot-app/onyx,13231.0,
+2836251474,Weves,COMMENTED,2025-02-06T18:36:54Z,onyx-dot-app/onyx,13231.0,
+3082729515,hbjORbj,APPROVED,2025-05-22T15:24:52Z,calcom/cal.com,37399.0,thanks for the cleanup! :D
+3085161396,yamadashy,APPROVED,2025-05-24T02:09:52Z,yamadashy/repomix,18206.0,
+3051248508,junkisai,APPROVED,2025-05-09T07:30:25Z,liam-hq/liam,4194.0,LGTM!
+2874011496,tjuanitas,COMMENTED,2025-02-24T21:21:08Z,box/box-ui-elements,546.0,
+2874011496,tjuanitas,COMMENTED,2025-02-24T21:35:24Z,box/box-ui-elements,546.0,
+2874011496,tjuanitas,COMMENTED,2025-02-24T21:35:46Z,box/box-ui-elements,546.0,
+2874011496,tjuanitas,COMMENTED,2025-02-24T21:35:56Z,box/box-ui-elements,546.0,
+2874011496,tjuanitas,COMMENTED,2025-02-24T23:46:20Z,box/box-ui-elements,546.0,
+2874011496,tjuanitas,COMMENTED,2025-02-24T23:46:45Z,box/box-ui-elements,546.0,
+2876487591,tjuanitas,COMMENTED,2025-02-27T02:30:29Z,box/box-ui-elements,546.0,
+2876487591,tjuanitas,APPROVED,2025-02-27T02:48:40Z,box/box-ui-elements,546.0,
+2876487591,jpan-box,APPROVED,2025-05-22T17:22:11Z,box/box-ui-elements,546.0,
+3272728961,michael-myaskovsky,APPROVED,2025-07-31T11:28:06Z,elementary-data/dbt-data-reliability,452.0,
+3079989476,tomiir,APPROVED,2025-05-22T10:05:43Z,reown-com/appkit,5202.0,
+3219588511,ThyMinimalDev,COMMENTED,2025-07-10T14:37:54Z,calcom/cal.com,37399.0,
+3219588511,ThyMinimalDev,COMMENTED,2025-07-10T14:38:05Z,calcom/cal.com,37399.0,
+3219588511,ThyMinimalDev,COMMENTED,2025-07-10T14:38:11Z,calcom/cal.com,37399.0,
+3219588511,ThyMinimalDev,COMMENTED,2025-07-10T14:38:17Z,calcom/cal.com,37399.0,
+3219588511,ThyMinimalDev,APPROVED,2025-07-10T14:51:17Z,calcom/cal.com,37399.0,
+3083204365,zhyd1997,COMMENTED,2025-05-22T12:40:00Z,softmaple/softmaple,129.0,
+3083204365,zhyd1997,COMMENTED,2025-05-22T12:45:16Z,softmaple/softmaple,129.0,
+3083204365,zhyd1997,COMMENTED,2025-05-22T12:48:36Z,softmaple/softmaple,129.0,
+3083204365,zhyd1997,COMMENTED,2025-05-22T12:50:02Z,softmaple/softmaple,129.0,
+3083204365,zhyd1997,COMMENTED,2025-05-22T13:01:12Z,softmaple/softmaple,129.0,
+3083204365,zhyd1997,COMMENTED,2025-05-22T13:06:03Z,softmaple/softmaple,129.0,
+3083204365,zhyd1997,COMMENTED,2025-05-22T13:09:28Z,softmaple/softmaple,129.0,
+3083204365,zhyd1997,APPROVED,2025-05-22T13:11:15Z,softmaple/softmaple,129.0,
+3224857167,anikdhabal,COMMENTED,2025-07-12T11:24:35Z,calcom/cal.com,37399.0,
+3224857167,Amit91848,CHANGES_REQUESTED,2025-07-14T07:11:59Z,calcom/cal.com,37399.0,
+3224857167,Amit91848,COMMENTED,2025-07-15T14:37:12Z,calcom/cal.com,37399.0,
+2876483432,tjuanitas,COMMENTED,2025-02-27T01:37:57Z,box/box-ui-elements,546.0,
+2876483432,tjuanitas,COMMENTED,2025-02-27T01:38:20Z,box/box-ui-elements,546.0,
+2876483432,tjuanitas,COMMENTED,2025-02-27T01:38:37Z,box/box-ui-elements,546.0,
+2876483432,tjuanitas,COMMENTED,2025-02-27T01:38:49Z,box/box-ui-elements,546.0,
+2876483432,tjuanitas,COMMENTED,2025-02-27T02:12:32Z,box/box-ui-elements,546.0,
+2876483432,tjuanitas,APPROVED,2025-02-27T02:15:14Z,box/box-ui-elements,546.0,
+3210268722,Amit91848,COMMENTED,2025-07-22T16:09:06Z,calcom/cal.com,37399.0,
+3210268722,PeerRich,APPROVED,2025-07-22T21:12:25Z,calcom/cal.com,37399.0,
+3210268722,eunjae-lee,APPROVED,2025-07-24T14:09:37Z,calcom/cal.com,37399.0,looking good!
+3210268722,zomars,APPROVED,2025-07-24T17:02:06Z,calcom/cal.com,37399.0,
+2761311271,madiator,APPROVED,2024-12-27T22:38:36Z,bespokelabsai/curator,1465.0,
+3276675146,zomars,APPROVED,2025-07-31T15:07:43Z,calcom/cal.com,37399.0,
+2900145289,Arachnid,CHANGES_REQUESTED,2025-03-06T11:37:51Z,ensdomains/governance-contracts,160.0,"For each of the MockENSRegistry, MockPublicResolver and MockReverseRegistrar, see if you can replace them with real deployments from @ensdomains/ens-contracts instead."
+2900145289,Arachnid,CHANGES_REQUESTED,2025-03-06T11:54:04Z,ensdomains/governance-contracts,160.0,
+2900145289,Arachnid,CHANGES_REQUESTED,2025-03-06T15:48:49Z,ensdomains/governance-contracts,160.0,
+2900145289,Arachnid,CHANGES_REQUESTED,2025-03-06T16:37:26Z,ensdomains/governance-contracts,160.0,
+2900145289,Arachnid,APPROVED,2025-03-06T16:45:44Z,ensdomains/governance-contracts,160.0,
+3033408828,oguzserdar,APPROVED,2025-05-02T04:00:04Z,AgentDock/AgentDock,1472.0,LGTM
+2836994029,tjuanitas,COMMENTED,2025-02-10T18:35:45Z,box/box-ui-elements,546.0,
+2836994029,tjuanitas,APPROVED,2025-02-12T01:23:15Z,box/box-ui-elements,546.0,
+2972138069,MH4GF,APPROVED,2025-04-04T12:03:38Z,liam-hq/liam,4194.0,LGTM 👍🏻
+2972138069,hoshinotsuyoshi,APPROVED,2025-04-04T12:05:56Z,liam-hq/liam,4194.0,
+2989721425,retrogtx,DISMISSED,2025-04-12T04:41:16Z,calcom/cal.com,37399.0,`verification_email_sent` is not present in the locale file.
+2989721425,hbjORbj,APPROVED,2025-04-12T05:49:43Z,calcom/cal.com,37399.0,
+3219161389,ThyMinimalDev,APPROVED,2025-07-10T13:55:54Z,calcom/cal.com,37399.0,
+2948843602,nagisa,COMMENTED,2025-03-26T12:41:25Z,near/nearcore,2464.0,
+2948843602,nagisa,COMMENTED,2025-03-26T12:45:07Z,near/nearcore,2464.0,
+2948843602,nagisa,COMMENTED,2025-03-26T12:52:14Z,near/nearcore,2464.0,
+2993205545,retrogtx,CHANGES_REQUESTED,2025-04-22T03:40:08Z,calcom/cal.com,37399.0,
+2993205545,retrogtx,COMMENTED,2025-04-22T03:41:13Z,calcom/cal.com,37399.0,
+2993205545,retrogtx,CHANGES_REQUESTED,2025-04-30T03:59:34Z,calcom/cal.com,37399.0,
+2993437629,keithwillcode,APPROVED,2025-04-14T15:39:51Z,calcom/cal.com,37399.0,
+3276421841,MH4GF,APPROVED,2025-07-31T09:33:39Z,liam-hq/liam,4194.0,
+3276421841,MH4GF,COMMENTED,2025-07-31T09:34:46Z,liam-hq/liam,4194.0,
+3276421841,MH4GF,COMMENTED,2025-07-31T09:35:30Z,liam-hq/liam,4194.0,
+3276421841,hoshinotsuyoshi,APPROVED,2025-07-31T11:02:48Z,liam-hq/liam,4194.0,LGTM!
+2971692797,MH4GF,COMMENTED,2025-04-04T08:56:44Z,liam-hq/liam,4194.0,
+2971692797,hoshinotsuyoshi,APPROVED,2025-04-04T09:44:45Z,liam-hq/liam,4194.0,👍
+2971692797,MH4GF,COMMENTED,2025-04-04T10:54:54Z,liam-hq/liam,4194.0,
+2971692797,MH4GF,APPROVED,2025-04-04T10:55:17Z,liam-hq/liam,4194.0,LGTM 👍🏻
+2775336826,hetunandu,APPROVED,2025-01-08T14:28:47Z,appsmithorg/appsmith,37596.0,
+3140243326,jonathanpwang,COMMENTED,2025-06-12T13:28:17Z,openvm-org/openvm,254.0,
+3140243326,jonathanpwang,COMMENTED,2025-06-12T13:28:52Z,openvm-org/openvm,254.0,
+3140243326,jonathanpwang,COMMENTED,2025-06-12T13:29:04Z,openvm-org/openvm,254.0,
+3140243326,jonathanpwang,COMMENTED,2025-06-12T13:29:22Z,openvm-org/openvm,254.0,
+3140243326,jonathanpwang,COMMENTED,2025-06-12T13:29:52Z,openvm-org/openvm,254.0,
+3140243326,jonathanpwang,COMMENTED,2025-06-12T13:30:01Z,openvm-org/openvm,254.0,
+3140243326,jonathanpwang,COMMENTED,2025-06-12T13:30:15Z,openvm-org/openvm,254.0,
+3140243326,jonathanpwang,COMMENTED,2025-06-12T13:31:53Z,openvm-org/openvm,254.0,
+3140243326,jonathanpwang,COMMENTED,2025-06-12T13:32:15Z,openvm-org/openvm,254.0,
+3140243326,jonathanpwang,APPROVED,2025-07-15T00:42:24Z,openvm-org/openvm,254.0,
+2893733497,limichange,COMMENTED,2025-03-04T10:51:15Z,OneKeyHQ/app-monorepo,1995.0,
+2984591304,FunamaYukina,APPROVED,2025-04-10T07:36:54Z,liam-hq/liam,4194.0,I had no problem checking in the local environment! Thank you very much.
+2984591304,hoshinotsuyoshi,COMMENTED,2025-04-10T08:01:41Z,liam-hq/liam,4194.0,
+2984591304,hoshinotsuyoshi,APPROVED,2025-04-10T08:01:53Z,liam-hq/liam,4194.0,Thank you!!
+2984591304,FunamaYukina,COMMENTED,2025-04-10T08:02:42Z,liam-hq/liam,4194.0,
+3203888759,aaronsteers,COMMENTED,2025-07-04T23:48:44Z,airbytehq/PyAirbyte,281.0,
+3203888759,aaronsteers,COMMENTED,2025-07-04T23:49:59Z,airbytehq/PyAirbyte,281.0,
+2993308860,keithwillcode,APPROVED,2025-04-14T14:47:49Z,calcom/cal.com,37399.0,
+2996628427,keithwillcode,COMMENTED,2025-04-15T14:25:23Z,calcom/cal.com,37399.0,
+2996628427,keithwillcode,COMMENTED,2025-04-15T14:25:36Z,calcom/cal.com,37399.0,
+2996628427,keithwillcode,COMMENTED,2025-04-15T14:25:58Z,calcom/cal.com,37399.0,
+2996628427,keithwillcode,COMMENTED,2025-04-15T14:26:12Z,calcom/cal.com,37399.0,
+2996628427,keithwillcode,COMMENTED,2025-04-15T14:26:24Z,calcom/cal.com,37399.0,
+2996628427,keithwillcode,COMMENTED,2025-04-15T14:26:35Z,calcom/cal.com,37399.0,
+2996628427,keithwillcode,COMMENTED,2025-04-15T14:26:42Z,calcom/cal.com,37399.0,
+2996628427,keithwillcode,COMMENTED,2025-04-15T14:26:46Z,calcom/cal.com,37399.0,
+2996628427,keithwillcode,COMMENTED,2025-04-15T14:26:51Z,calcom/cal.com,37399.0,
+2996628427,keithwillcode,COMMENTED,2025-04-15T14:26:55Z,calcom/cal.com,37399.0,
+2996628427,keithwillcode,COMMENTED,2025-04-15T14:27:07Z,calcom/cal.com,37399.0,
+2870022451,tjiang-box,CHANGES_REQUESTED,2025-02-24T19:48:53Z,box/box-ui-elements,546.0,
+2870022451,tjiang-box,COMMENTED,2025-02-24T21:46:04Z,box/box-ui-elements,546.0,
+3239035119,MH4GF,COMMENTED,2025-07-18T02:24:15Z,liam-hq/liam,4194.0,
+3239035119,NoritakaIkeda,APPROVED,2025-07-18T02:54:39Z,liam-hq/liam,4194.0,Thanks! LGTM!
+2876474344,tjuanitas,COMMENTED,2025-02-25T20:15:26Z,box/box-ui-elements,546.0,
+2876474344,tjuanitas,COMMENTED,2025-02-25T20:15:39Z,box/box-ui-elements,546.0,
+2876474344,tjuanitas,COMMENTED,2025-02-27T01:15:41Z,box/box-ui-elements,546.0,
+2876474344,tjuanitas,COMMENTED,2025-02-27T01:19:05Z,box/box-ui-elements,546.0,
+2876474344,tjuanitas,COMMENTED,2025-02-27T01:19:17Z,box/box-ui-elements,546.0,
+2876474344,tjuanitas,COMMENTED,2025-02-27T01:27:27Z,box/box-ui-elements,546.0,
+2876474344,tjuanitas,COMMENTED,2025-02-27T01:44:06Z,box/box-ui-elements,546.0,
+2876474344,tjuanitas,COMMENTED,2025-02-27T01:48:11Z,box/box-ui-elements,546.0,
+2876474344,tjuanitas,APPROVED,2025-02-27T01:56:24Z,box/box-ui-elements,546.0,
+3120065809,MH4GF,APPROVED,2025-06-05T07:04:28Z,liam-hq/liam,4194.0,I checked to work in preview environment. LGTM 👍🏻 ref: https://liam-erd-sample-rb0o2wvia-liambx.vercel.app
+3120065809,NoritakaIkeda,APPROVED,2025-06-05T07:46:13Z,liam-hq/liam,4194.0,"I see that the logic has just been reorganized without changing the behavior — looks good to me, LGTM!"
+3210536156,carlosabadia,APPROVED,2025-07-10T08:46:32Z,reflex-dev/reflex-web,286.0,
+3093743553,steebchen,COMMENTED,2025-05-27T12:36:16Z,theopenco/llmgateway,321.0,
+3164482877,ThyMinimalDev,COMMENTED,2025-06-21T05:42:05Z,calcom/cal.com,37399.0,
+3203146305,emrysal,DISMISSED,2025-07-04T16:04:02Z,calcom/cal.com,37399.0,"Thorough refactor, types passing, good to merge."
+3203146305,emrysal,APPROVED,2025-07-04T20:07:58Z,calcom/cal.com,37399.0,
+2870047901,tjiang-box,CHANGES_REQUESTED,2025-02-24T18:53:05Z,box/box-ui-elements,546.0,
+2870047901,tjiang-box,COMMENTED,2025-02-24T18:54:14Z,box/box-ui-elements,546.0,
+3043613876,zomars,APPROVED,2025-05-06T23:33:06Z,calcom/cal.com,37399.0,
+2868356535,frostming,CHANGES_REQUESTED,2025-02-21T09:05:09Z,bentoml/BentoML,7934.0,"Don't define merger as a dict, but use the `deep_merge` function directly. Also fix all usages of merger. Take care of the CI failures"
+3199198584,hoshinotsuyoshi,COMMENTED,2025-07-03T12:40:48Z,liam-hq/liam,4194.0,
+3199198584,hoshinotsuyoshi,APPROVED,2025-07-04T01:39:04Z,liam-hq/liam,4194.0,
+3199198584,MH4GF,APPROVED,2025-07-04T03:03:47Z,liam-hq/liam,4194.0,I understand. Looks great!!
+2991791185,MH4GF,COMMENTED,2025-04-14T03:50:27Z,liam-hq/liam,4194.0,
+2991791185,MH4GF,COMMENTED,2025-04-14T04:33:32Z,liam-hq/liam,4194.0,
+2991791185,MH4GF,COMMENTED,2025-04-14T04:34:12Z,liam-hq/liam,4194.0,
+2991791185,MH4GF,COMMENTED,2025-04-14T04:34:40Z,liam-hq/liam,4194.0,
+2991791185,MH4GF,APPROVED,2025-04-14T07:38:15Z,liam-hq/liam,4194.0,LGTM 👍🏻
+2991791185,junkisai,APPROVED,2025-04-14T10:37:25Z,liam-hq/liam,4194.0,nice work!!
+2867174561,tjuanitas,COMMENTED,2025-02-20T20:17:07Z,box/box-ui-elements,546.0,
+2867174561,tjuanitas,DISMISSED,2025-02-20T20:22:37Z,box/box-ui-elements,546.0,"don't merge this yet, as the JS component could be useful for testing. however, it looks good and doesn't require any more changes."
+2867174561,tjuanitas,COMMENTED,2025-02-20T21:42:06Z,box/box-ui-elements,546.0,
+2867174561,tjuanitas,COMMENTED,2025-02-20T22:46:22Z,box/box-ui-elements,546.0,
+2867174561,tjuanitas,COMMENTED,2025-02-20T22:49:59Z,box/box-ui-elements,546.0,
+2867174561,tjuanitas,COMMENTED,2025-02-20T22:53:05Z,box/box-ui-elements,546.0,
+2867174561,tjuanitas,COMMENTED,2025-02-20T22:53:53Z,box/box-ui-elements,546.0,
+2867174561,tjuanitas,COMMENTED,2025-02-20T22:54:22Z,box/box-ui-elements,546.0,
+2867174561,tjuanitas,COMMENTED,2025-02-20T22:55:56Z,box/box-ui-elements,546.0,
+2867174561,tjuanitas,COMMENTED,2025-02-20T22:56:13Z,box/box-ui-elements,546.0,
+2867174561,tjuanitas,COMMENTED,2025-02-20T22:56:27Z,box/box-ui-elements,546.0,
+2867174561,tjuanitas,COMMENTED,2025-02-21T02:31:21Z,box/box-ui-elements,546.0,
+2867174561,tjuanitas,APPROVED,2025-02-21T03:07:53Z,box/box-ui-elements,546.0,
+2857171695,Kitenite,COMMENTED,2025-02-18T04:50:09Z,onlook-dev/onlook,21192.0,
+2843318713,rmarescu,COMMENTED,2025-02-10T19:54:40Z,antiwork/shortest,5179.0,"The checks are failing, could you investigate?"
+2963124263,junkisai,APPROVED,2025-04-02T08:12:30Z,liam-hq/liam,4194.0,nice work!!
+3106932669,zhyd1997,COMMENTED,2025-06-01T09:16:58Z,softmaple/softmaple,129.0,
+3106932669,zhyd1997,COMMENTED,2025-06-01T09:22:37Z,softmaple/softmaple,129.0,
+3106932669,zhyd1997,APPROVED,2025-06-01T09:36:44Z,softmaple/softmaple,129.0,
+3219844115,ThyMinimalDev,APPROVED,2025-07-10T17:24:14Z,calcom/cal.com,37399.0,
+3018869549,MH4GF,APPROVED,2025-04-25T09:12:26Z,liam-hq/liam,4194.0,👍🏻
+3018869549,junkisai,APPROVED,2025-04-25T09:32:59Z,liam-hq/liam,4194.0,thx!!
+3018869549,hoshinotsuyoshi,COMMENTED,2025-04-25T11:31:05Z,liam-hq/liam,4194.0,
+2834062498,spolu,APPROVED,2025-02-06T07:28:19Z,dust-tt/dust,1171.0,Looks ok
+3038390136,aaronsteers,COMMENTED,2025-05-05T04:38:25Z,airbytehq/airbyte,19011.0,
+3038390136,aaronsteers,COMMENTED,2025-05-05T04:40:15Z,airbytehq/airbyte,19011.0,
+3084608702,ThyMinimalDev,COMMENTED,2025-06-10T13:00:32Z,calcom/cal.com,37399.0,
+3084608702,ThyMinimalDev,COMMENTED,2025-06-10T13:00:39Z,calcom/cal.com,37399.0,
+3084608702,ThyMinimalDev,COMMENTED,2025-06-10T13:02:04Z,calcom/cal.com,37399.0,
+3084608702,ThyMinimalDev,COMMENTED,2025-06-10T13:02:55Z,calcom/cal.com,37399.0,
+3084608702,ThyMinimalDev,COMMENTED,2025-06-10T13:06:58Z,calcom/cal.com,37399.0,
+3084608702,ThyMinimalDev,COMMENTED,2025-06-10T13:07:18Z,calcom/cal.com,37399.0,
+3084608702,ThyMinimalDev,COMMENTED,2025-06-10T13:07:59Z,calcom/cal.com,37399.0,
+3084608702,ThyMinimalDev,DISMISSED,2025-06-12T09:42:20Z,calcom/cal.com,37399.0,
+3084608702,ThyMinimalDev,APPROVED,2025-06-12T11:39:26Z,calcom/cal.com,37399.0,
+3220346925,ThyMinimalDev,APPROVED,2025-07-11T07:39:12Z,calcom/cal.com,37399.0,
+3147321747,dktapps,CHANGES_REQUESTED,2025-06-15T15:13:15Z,reeze/php-leveldb,241.0,
+3147321747,dktapps,COMMENTED,2025-06-15T15:18:00Z,reeze/php-leveldb,241.0,
+2876479825,tjuanitas,COMMENTED,2025-02-25T20:11:24Z,box/box-ui-elements,546.0,You need to create `.js.flow` files for these files
+2876479825,tjuanitas,COMMENTED,2025-02-26T18:12:14Z,box/box-ui-elements,546.0,
+2876479825,tjuanitas,COMMENTED,2025-02-26T18:23:20Z,box/box-ui-elements,546.0,
+2876479825,tjuanitas,COMMENTED,2025-02-26T19:04:05Z,box/box-ui-elements,546.0,
+2876479825,tjuanitas,COMMENTED,2025-02-27T01:11:54Z,box/box-ui-elements,546.0,
+2876479825,tjuanitas,COMMENTED,2025-02-27T01:12:31Z,box/box-ui-elements,546.0,
+2876479825,tjuanitas,COMMENTED,2025-02-27T02:03:57Z,box/box-ui-elements,546.0,
+2876479825,tjuanitas,APPROVED,2025-05-22T01:29:13Z,box/box-ui-elements,546.0,
+2876479825,jpan-box,APPROVED,2025-05-22T17:21:49Z,box/box-ui-elements,546.0,
+2932851977,lordsarcastic,CHANGES_REQUESTED,2025-03-28T16:09:00Z,NangoHQ/nango,5463.0,
+2932851977,lordsarcastic,APPROVED,2025-03-28T16:46:59Z,NangoHQ/nango,5463.0,
+2932851977,lordsarcastic,CHANGES_REQUESTED,2025-05-14T18:12:17Z,NangoHQ/nango,5463.0,
+2932851977,lordsarcastic,APPROVED,2025-05-21T09:39:22Z,NangoHQ/nango,5463.0,
+2759620798,benjaminshafii,APPROVED,2024-12-26T10:52:50Z,different-ai/note-companion,696.0,
+3268967796,emrysal,APPROVED,2025-07-31T01:03:17Z,calcom/cal.com,37399.0,Happy with this; step by step..
+2861659768,mscolnick,COMMENTED,2025-02-18T21:29:46Z,marimo-team/marimo,14933.0,
+2780910368,whitphx,COMMENTED,2025-01-11T04:20:40Z,whitphx/stlite,1446.0,
+2780910368,whitphx,COMMENTED,2025-01-11T08:15:05Z,whitphx/stlite,1446.0,Reviewed
+3001400146,MH4GF,COMMENTED,2025-04-17T06:14:41Z,liam-hq/liam,4194.0,
+3001400146,MH4GF,COMMENTED,2025-04-17T06:29:23Z,liam-hq/liam,4194.0,
+3001400146,MH4GF,COMMENTED,2025-04-17T06:29:44Z,liam-hq/liam,4194.0,
+3001400146,MH4GF,COMMENTED,2025-04-17T06:31:02Z,liam-hq/liam,4194.0,
+3001400146,MH4GF,COMMENTED,2025-04-17T07:04:38Z,liam-hq/liam,4194.0,
+3001400146,MH4GF,COMMENTED,2025-04-17T07:05:04Z,liam-hq/liam,4194.0,
+3046430027,zomars,APPROVED,2025-05-07T20:00:19Z,calcom/cal.com,37399.0,
+3132632142,MH4GF,APPROVED,2025-06-10T09:02:22Z,liam-hq/liam,4194.0,
+3132632142,hoshinotsuyoshi,APPROVED,2025-06-11T02:17:28Z,liam-hq/liam,4194.0,LGTM!
+2994933163,MH4GF,COMMENTED,2025-04-15T03:23:10Z,liam-hq/liam,4194.0,
+2994933163,MH4GF,COMMENTED,2025-04-15T04:04:26Z,liam-hq/liam,4194.0,
+2994933163,MH4GF,COMMENTED,2025-04-15T04:04:44Z,liam-hq/liam,4194.0,
+2994933163,MH4GF,APPROVED,2025-04-15T04:57:20Z,liam-hq/liam,4194.0,LGTM!!
+2994933163,hoshinotsuyoshi,APPROVED,2025-04-15T12:25:04Z,liam-hq/liam,4194.0,LGTM! 🚀
+2839273370,natikgadzhi,COMMENTED,2025-02-07T23:22:57Z,airbytehq/airbyte,19011.0,
+2839273370,natikgadzhi,COMMENTED,2025-02-07T23:23:21Z,airbytehq/airbyte,19011.0,
+2839273370,natikgadzhi,COMMENTED,2025-02-08T01:05:45Z,airbytehq/airbyte,19011.0,
+2839273370,natikgadzhi,COMMENTED,2025-02-08T01:06:11Z,airbytehq/airbyte,19011.0,
+2839273370,natikgadzhi,COMMENTED,2025-02-08T01:06:55Z,airbytehq/airbyte,19011.0,
+2839273370,natikgadzhi,APPROVED,2025-02-08T03:13:16Z,airbytehq/airbyte,19011.0,"Since we have a path forward for manifest-only connectors with custom components, nobody should start their new _low-code source_ connectors from scratch. This is a small housekeeping PR that I am happy with. There's a case to be made that even IF we want to keep Python boilerplate generator, we should improve it (it still uses Node16 image) or use Python cookie-cutter package instead, and use Concurrent CDK stream classes."
+2952003676,MH4GF,APPROVED,2025-03-27T08:13:13Z,liam-hq/liam,4194.0,👍🏻
+2952003676,hoshinotsuyoshi,APPROVED,2025-03-27T08:37:38Z,liam-hq/liam,4194.0,LGTM!
+3211122981,MH4GF,APPROVED,2025-07-08T07:19:47Z,liam-hq/liam,4194.0,
+3211122981,junkisai,APPROVED,2025-07-08T07:56:47Z,liam-hq/liam,4194.0,LGTM🙆‍♂️
+2876464228,tjuanitas,COMMENTED,2025-02-25T00:08:41Z,box/box-ui-elements,546.0,
+2876464228,tjuanitas,APPROVED,2025-02-27T03:32:30Z,box/box-ui-elements,546.0,
+2826904500,sondermanish,COMMENTED,2025-02-03T09:24:07Z,appsmithorg/appsmith,37596.0,
+2826904500,sondermanish,COMMENTED,2025-02-03T09:24:30Z,appsmithorg/appsmith,37596.0,
+2826904500,sondermanish,COMMENTED,2025-02-03T09:24:44Z,appsmithorg/appsmith,37596.0,
+2826904500,sondermanish,COMMENTED,2025-02-03T09:25:37Z,appsmithorg/appsmith,37596.0,
+3033217495,MH4GF,COMMENTED,2025-05-01T06:45:08Z,liam-hq/liam,4194.0,
+3033217495,MH4GF,APPROVED,2025-05-01T06:45:17Z,liam-hq/liam,4194.0,LGTM 👍🏻
+3033217495,NoritakaIkeda,APPROVED,2025-05-01T06:55:59Z,liam-hq/liam,4194.0,I really appreciate this change! LGTM!
+2876473421,tjuanitas,COMMENTED,2025-02-25T00:10:13Z,box/box-ui-elements,546.0,
+2876473421,tjuanitas,COMMENTED,2025-02-25T00:10:30Z,box/box-ui-elements,546.0,
+2876473421,tjuanitas,COMMENTED,2025-02-25T00:22:13Z,box/box-ui-elements,546.0,
+2876473421,tjuanitas,COMMENTED,2025-02-25T00:22:44Z,box/box-ui-elements,546.0,
+2876473421,tjuanitas,COMMENTED,2025-02-27T02:39:28Z,box/box-ui-elements,546.0,
+2876473421,tjuanitas,COMMENTED,2025-02-27T02:56:44Z,box/box-ui-elements,546.0,
+2876473421,tjuanitas,DISMISSED,2025-02-27T02:59:27Z,box/box-ui-elements,546.0,
+2838943759,jayantk,COMMENTED,2025-02-07T19:36:14Z,pyth-network/pyth-crosschain,184.0,
+2838943759,jayantk,COMMENTED,2025-02-07T19:37:39Z,pyth-network/pyth-crosschain,184.0,
+2838943759,Riateche,CHANGES_REQUESTED,2025-02-10T10:32:14Z,pyth-network/pyth-crosschain,184.0,
+2838943759,Riateche,APPROVED,2025-02-12T12:01:55Z,pyth-network/pyth-crosschain,184.0,
+2920400760,viictoo,COMMENTED,2025-05-19T11:06:21Z,NangoHQ/nango,5463.0,reviewed with a few comments
+2920400760,viictoo,APPROVED,2025-05-20T18:06:37Z,NangoHQ/nango,5463.0,
+2920400760,khaliqgant,COMMENTED,2025-05-20T18:10:54Z,NangoHQ/nango,5463.0,
+2920400760,khaliqgant,APPROVED,2025-05-20T18:35:31Z,NangoHQ/nango,5463.0,
+2895935478,hand-dot,COMMENTED,2025-03-05T02:30:19Z,pdfme/pdfme,3389.0,
+2955783318,junkisai,APPROVED,2025-03-31T04:22:08Z,liam-hq/liam,4194.0,LGTM!!
+3075075850,keithwillcode,CHANGES_REQUESTED,2025-05-26T17:46:34Z,calcom/cal.com,37399.0,@Udit-takkar had a coupl
+2968381717,FunamaYukina,COMMENTED,2025-04-03T05:35:07Z,liam-hq/liam,4194.0,Please check the comments!
+2968381717,FunamaYukina,COMMENTED,2025-04-03T05:38:01Z,liam-hq/liam,4194.0,
+2968381717,FunamaYukina,APPROVED,2025-04-03T05:47:17Z,liam-hq/liam,4194.0,LGTM! Thank you.
+2968381717,MH4GF,APPROVED,2025-04-03T06:04:53Z,liam-hq/liam,4194.0,LGTM 👍🏻
+3222377513,zomars,APPROVED,2025-07-11T14:27:19Z,calcom/cal.com,37399.0,Exciting times. Code LGTM.
+3002304521,keugenek,APPROVED,2025-04-17T15:39:12Z,appdotbuild/agent,351.0,
+2876476358,tjuanitas,COMMENTED,2025-02-25T19:25:34Z,box/box-ui-elements,546.0,"Devin, please only make these changes"
+2876476358,tjuanitas,COMMENTED,2025-02-25T19:30:45Z,box/box-ui-elements,546.0,
+2876476358,tjuanitas,APPROVED,2025-02-25T19:48:07Z,box/box-ui-elements,546.0,
+2876476358,jpan-box,APPROVED,2025-05-22T01:27:58Z,box/box-ui-elements,546.0,
+2831659682,tjuanitas,COMMENTED,2025-02-05T03:16:17Z,box/box-ui-elements,546.0,
+2831659682,tjuanitas,COMMENTED,2025-02-05T03:26:56Z,box/box-ui-elements,546.0,looks good devin
+2831659682,tjuanitas,COMMENTED,2025-02-05T19:39:28Z,box/box-ui-elements,546.0,
+2831659682,tjuanitas,APPROVED,2025-02-05T21:26:17Z,box/box-ui-elements,546.0,
+2831659682,JChan106,APPROVED,2025-02-06T01:53:04Z,box/box-ui-elements,546.0,
+2833672153,s3ththompson,COMMENTED,2025-02-06T15:21:16Z,antiwork/iffy,392.0,
+3003452544,ian-at-airbyte,APPROVED,2025-04-17T21:27:15Z,airbytehq/airbyte,19011.0,"I've confirmed that migration guides now appear as children under their parent connector doc, even if they are not explicitly defined in sidebars.js. As Devin suggests, the culprit was early returns that prevented the necessary code from running."
+3051361296,hoshinotsuyoshi,APPROVED,2025-05-12T05:37:11Z,liam-hq/liam,4194.0,LGTM!
+3013906937,FunamaYukina,APPROVED,2025-04-25T07:25:27Z,liam-hq/liam,4194.0,
+3013906937,NoritakaIkeda,APPROVED,2025-04-25T08:07:43Z,liam-hq/liam,4194.0,Thank you for the update! This looks great!
+3013906937,MH4GF,APPROVED,2025-04-25T08:08:11Z,liam-hq/liam,4194.0,LGTM 👍🏻
+3013906937,hoshinotsuyoshi,APPROVED,2025-04-25T08:08:16Z,liam-hq/liam,4194.0,LGTM!
+3119664015,MH4GF,APPROVED,2025-06-05T02:52:31Z,liam-hq/liam,4194.0,
+3119664015,hoshinotsuyoshi,APPROVED,2025-06-05T04:29:50Z,liam-hq/liam,4194.0,LGTM!
+2831826191,tjuanitas,COMMENTED,2025-02-05T04:20:01Z,box/box-ui-elements,546.0,
+2831826191,tjuanitas,COMMENTED,2025-02-05T18:07:26Z,box/box-ui-elements,546.0,
+2831826191,tjuanitas,COMMENTED,2025-02-05T18:09:34Z,box/box-ui-elements,546.0,
+2831826191,tjuanitas,COMMENTED,2025-02-05T18:12:54Z,box/box-ui-elements,546.0,
+2831826191,tjuanitas,APPROVED,2025-02-05T21:25:29Z,box/box-ui-elements,546.0,
+2831826191,JChan106,APPROVED,2025-02-06T01:53:32Z,box/box-ui-elements,546.0,
+2977353844,mogery,APPROVED,2025-04-08T06:25:49Z,mendableai/firecrawl,43970.0,i like it!
+3058727828,hbjORbj,DISMISSED,2025-05-13T04:31:38Z,calcom/cal.com,37399.0,Great job Devin <3
+3058727828,keithwillcode,APPROVED,2025-05-13T09:17:59Z,calcom/cal.com,37399.0,
+3013750996,MH4GF,APPROVED,2025-04-24T02:17:33Z,liam-hq/liam,4194.0,"LGTM, but please check a comment!"
+3013750996,hoshinotsuyoshi,APPROVED,2025-04-24T03:33:23Z,liam-hq/liam,4194.0,LGTM!
+2876486205,tjuanitas,APPROVED,2025-05-22T01:35:06Z,box/box-ui-elements,546.0,
+2876486205,jpan-box,APPROVED,2025-05-22T17:21:58Z,box/box-ui-elements,546.0,
+3243982089,aaronsteers,COMMENTED,2025-07-18T18:11:54Z,airbytehq/airbyte,19011.0,
+3058028116,TusharBhatt1,COMMENTED,2025-05-19T17:54:22Z,calcom/cal.com,37399.0,"We have type checks failing , though I have updated the branch , are you sure it's not due to this PR changes"
+3132423347,MH4GF,APPROVED,2025-06-10T07:12:20Z,liam-hq/liam,4194.0,
+3132423347,FunamaYukina,APPROVED,2025-06-10T07:26:40Z,liam-hq/liam,4194.0,Thank you so much!!
+3216681123,ThyMinimalDev,APPROVED,2025-07-10T10:59:15Z,calcom/cal.com,37399.0,
+3023248867,aramalipoor,COMMENTED,2025-04-27T19:05:46Z,erpc/erpc,518.0,
+3023248867,aramalipoor,COMMENTED,2025-04-27T19:07:33Z,erpc/erpc,518.0,
+3023248867,aramalipoor,COMMENTED,2025-04-27T19:12:48Z,erpc/erpc,518.0,
+3143957758,keugenek,APPROVED,2025-06-13T15:34:52Z,appdotbuild/platform,125.0,
+3143957758,MarioCadenas,APPROVED,2025-06-16T08:35:55Z,appdotbuild/platform,125.0,
+3143957758,pffigueiredo,APPROVED,2025-06-16T10:31:27Z,appdotbuild/platform,125.0,
+3220799500,masenf,APPROVED,2025-07-16T19:25:24Z,reflex-dev/reflex,23696.0,
+3220799500,adhami3310,COMMENTED,2025-07-16T19:59:15Z,reflex-dev/reflex,23696.0,
+2918946440,shreyan-gupta,COMMENTED,2025-03-14T04:23:46Z,near/nearcore,2464.0,
+2918946440,shreyan-gupta,COMMENTED,2025-03-14T04:37:15Z,near/nearcore,2464.0,
+2918946440,shreyan-gupta,APPROVED,2025-03-14T04:39:46Z,near/nearcore,2464.0,
+2918946440,nagisa,COMMENTED,2025-03-14T09:52:14Z,near/nearcore,2464.0,
+2918946440,nagisa,COMMENTED,2025-03-14T09:53:46Z,near/nearcore,2464.0,
+2918946440,nagisa,COMMENTED,2025-03-14T10:01:42Z,near/nearcore,2464.0,
+2918946440,nagisa,APPROVED,2025-03-14T10:54:42Z,near/nearcore,2464.0,
+2918946440,shreyan-gupta,COMMENTED,2025-03-14T11:24:37Z,near/nearcore,2464.0,
+2918946440,nagisa,COMMENTED,2025-03-14T11:38:32Z,near/nearcore,2464.0,
+2918946440,shreyan-gupta,COMMENTED,2025-03-14T11:40:24Z,near/nearcore,2464.0,
+3166890939,FunamaYukina,APPROVED,2025-06-23T08:47:58Z,liam-hq/liam,4194.0,LGTM! I confirmed that the workflow works correctly in the local environment!
+3166890939,MH4GF,APPROVED,2025-06-23T08:51:20Z,liam-hq/liam,4194.0,> The changes maintain backward compatibility for the analysis functionality while removing the unused review features. The analyzeRequirements method continues to work as expected. I see 👍🏻 LGTM!!
+3017016012,skyzh,COMMENTED,2025-04-24T18:08:13Z,neondatabase/neon,19274.0,
+3017016012,jcsp,COMMENTED,2025-04-25T08:42:06Z,neondatabase/neon,19274.0,
+3017016012,skyzh,COMMENTED,2025-04-25T14:56:28Z,neondatabase/neon,19274.0,
+3017016012,skyzh,COMMENTED,2025-04-25T15:12:28Z,neondatabase/neon,19274.0,
+3017016012,jcsp,COMMENTED,2025-04-25T15:17:41Z,neondatabase/neon,19274.0,
+3017016012,skyzh,APPROVED,2025-04-29T18:20:53Z,neondatabase/neon,19274.0,
+3082414888,sean-brydon,APPROVED,2025-05-22T08:23:28Z,calcom/cal.com,37399.0,Nice refactor here!
+2959442086,junkisai,APPROVED,2025-03-31T05:14:53Z,liam-hq/liam,4194.0,Looks good! 👍
+2876477909,tjuanitas,COMMENTED,2025-02-25T19:51:06Z,box/box-ui-elements,546.0,
+2876477909,tjuanitas,COMMENTED,2025-02-25T21:36:17Z,box/box-ui-elements,546.0,
+2876477909,tjuanitas,COMMENTED,2025-02-25T21:36:37Z,box/box-ui-elements,546.0,
+2876477909,tjuanitas,COMMENTED,2025-02-25T21:36:49Z,box/box-ui-elements,546.0,
+2876477909,tjuanitas,COMMENTED,2025-02-25T21:37:49Z,box/box-ui-elements,546.0,
+2876477909,tjuanitas,COMMENTED,2025-02-25T21:43:03Z,box/box-ui-elements,546.0,
+2876477909,tjuanitas,COMMENTED,2025-02-25T21:44:03Z,box/box-ui-elements,546.0,
+2876477909,tjuanitas,COMMENTED,2025-02-25T21:53:50Z,box/box-ui-elements,546.0,
+2876477909,tjuanitas,COMMENTED,2025-02-25T21:54:36Z,box/box-ui-elements,546.0,
+2876477909,tjuanitas,COMMENTED,2025-02-25T22:42:39Z,box/box-ui-elements,546.0,
+2876477909,tjuanitas,COMMENTED,2025-02-25T22:52:50Z,box/box-ui-elements,546.0,
+2876477909,tjuanitas,COMMENTED,2025-02-26T00:30:06Z,box/box-ui-elements,546.0,"Make these changes and no other changes, Devin, please."
+2876477909,tjuanitas,APPROVED,2025-02-26T00:41:57Z,box/box-ui-elements,546.0,
+2899248773,sidmorizon,DISMISSED,2025-03-06T04:21:43Z,OneKeyHQ/app-monorepo,1995.0,
+2899248773,sidmorizon,APPROVED,2025-03-06T09:15:52Z,OneKeyHQ/app-monorepo,1995.0,
+2899248773,originalix,APPROVED,2025-03-06T11:20:23Z,OneKeyHQ/app-monorepo,1995.0,
+3066913905,steebchen,COMMENTED,2025-05-15T17:32:43Z,theopenco/llmgateway,321.0,
+3120062148,MH4GF,APPROVED,2025-06-05T06:58:49Z,liam-hq/liam,4194.0,
+3120062148,hoshinotsuyoshi,APPROVED,2025-06-05T07:20:34Z,liam-hq/liam,4194.0,LGTM!
+3057663648,dbgold17,COMMENTED,2025-05-12T22:13:13Z,airbytehq/airbyte,19011.0,
+3057663648,aaronsteers,COMMENTED,2025-05-13T23:44:14Z,airbytehq/airbyte,19011.0,A few comments. Great progress!
+3057663648,dbgold17,COMMENTED,2025-05-20T15:53:18Z,airbytehq/airbyte,19011.0,
+3057663648,dbgold17,APPROVED,2025-05-20T16:07:26Z,airbytehq/airbyte,19011.0,
+3221971929,ThyMinimalDev,APPROVED,2025-07-11T10:01:36Z,calcom/cal.com,37399.0,
+2852724489,junkisai,COMMENTED,2025-02-14T05:38:04Z,liam-hq/liam,4194.0,
+2852724489,junkisai,COMMENTED,2025-02-14T06:35:42Z,liam-hq/liam,4194.0,
+2852724489,junkisai,COMMENTED,2025-02-14T06:51:43Z,liam-hq/liam,4194.0,
+2852724489,junkisai,COMMENTED,2025-02-14T07:08:53Z,liam-hq/liam,4194.0,
+2852724489,sasamuku,APPROVED,2025-02-14T08:35:35Z,liam-hq/liam,4194.0,LGTM👍
+3080933474,scopsy,COMMENTED,2025-05-22T06:12:07Z,novuhq/novu,37349.0,
+3214124003,Alek99,APPROVED,2025-07-09T19:09:46Z,reflex-dev/reflex-web,286.0,
+2876482299,tjuanitas,COMMENTED,2025-02-27T03:44:57Z,box/box-ui-elements,546.0,
+2876482299,tjuanitas,COMMENTED,2025-02-27T03:45:56Z,box/box-ui-elements,546.0,
+2876482299,tjuanitas,COMMENTED,2025-02-27T03:47:32Z,box/box-ui-elements,546.0,
+2876482299,tjuanitas,COMMENTED,2025-02-27T03:49:00Z,box/box-ui-elements,546.0,
+2876482299,tjuanitas,COMMENTED,2025-02-27T03:49:37Z,box/box-ui-elements,546.0,
+2876482299,tjuanitas,COMMENTED,2025-02-27T03:50:28Z,box/box-ui-elements,546.0,
+2876482299,tjuanitas,COMMENTED,2025-02-27T03:50:43Z,box/box-ui-elements,546.0,
+2876482299,tjuanitas,COMMENTED,2025-02-27T03:51:17Z,box/box-ui-elements,546.0,
+2876482299,tjuanitas,COMMENTED,2025-02-27T03:51:42Z,box/box-ui-elements,546.0,
+2876482299,tjuanitas,COMMENTED,2025-02-27T03:52:14Z,box/box-ui-elements,546.0,
+2918768296,shreyan-gupta,COMMENTED,2025-03-14T02:12:40Z,near/nearcore,2464.0,
+2918768296,shreyan-gupta,APPROVED,2025-03-14T02:33:52Z,near/nearcore,2464.0,
+2918768296,nagisa,COMMENTED,2025-03-14T09:57:53Z,near/nearcore,2464.0,
+2918768296,nagisa,COMMENTED,2025-03-14T10:59:29Z,near/nearcore,2464.0,
+2918768296,nagisa,APPROVED,2025-03-14T11:33:45Z,near/nearcore,2464.0,
+3185449445,ypc-faros,COMMENTED,2025-06-28T20:31:37Z,faros-ai/airbyte-connectors,121.0,
+3185449445,ypc-faros,COMMENTED,2025-06-28T20:33:10Z,faros-ai/airbyte-connectors,121.0,
+3185449445,ypc-faros,COMMENTED,2025-06-28T20:34:25Z,faros-ai/airbyte-connectors,121.0,
+3185449445,ypc-faros,COMMENTED,2025-06-28T20:49:24Z,faros-ai/airbyte-connectors,121.0,
+3272569623,MH4GF,APPROVED,2025-07-29T08:00:27Z,liam-hq/liam,4194.0,👍🏻
+3272569623,hoshinotsuyoshi,APPROVED,2025-07-30T06:29:27Z,liam-hq/liam,4194.0,👍
+3016277401,MH4GF,APPROVED,2025-04-24T08:04:46Z,liam-hq/liam,4194.0,LGTM 👍🏻
+3016277401,FunamaYukina,APPROVED,2025-04-25T02:44:11Z,liam-hq/liam,4194.0,LGTM! Thank you!
+3201101024,MH4GF,COMMENTED,2025-07-04T03:29:41Z,liam-hq/liam,4194.0,
+3201101024,hoshinotsuyoshi,APPROVED,2025-07-04T09:49:15Z,liam-hq/liam,4194.0,"As far as I can tell, most of the existing code already follows this rule. LGTM!"
+3048282458,TusharBhatt1,COMMENTED,2025-05-15T14:55:03Z,calcom/cal.com,37399.0,
+3048282458,TusharBhatt1,COMMENTED,2025-05-15T14:57:40Z,calcom/cal.com,37399.0,
+2836446355,tjuanitas,COMMENTED,2025-02-06T19:59:17Z,box/box-ui-elements,546.0,
+2836446355,tjuanitas,COMMENTED,2025-02-06T21:25:59Z,box/box-ui-elements,546.0,
+2836446355,tjuanitas,APPROVED,2025-02-06T21:46:13Z,box/box-ui-elements,546.0,looks good. I confirmed that the new TSX is the same as the flow file with some changes in types and reordering of the imports
+2876476091,tjuanitas,COMMENTED,2025-02-27T02:44:19Z,box/box-ui-elements,546.0,
+2876476091,tjuanitas,APPROVED,2025-02-27T03:05:57Z,box/box-ui-elements,546.0,
+2893535102,limichange,APPROVED,2025-03-04T09:36:22Z,OneKeyHQ/app-monorepo,1995.0,
+2893535102,originalix,APPROVED,2025-03-04T09:51:20Z,OneKeyHQ/app-monorepo,1995.0,
+2876474366,tjuanitas,COMMENTED,2025-02-27T03:18:12Z,box/box-ui-elements,546.0,
+2876474366,tjuanitas,COMMENTED,2025-02-27T03:18:30Z,box/box-ui-elements,546.0,
+2876474366,tjuanitas,COMMENTED,2025-02-27T03:18:59Z,box/box-ui-elements,546.0,
+3152681524,NoritakaIkeda,APPROVED,2025-06-18T08:12:30Z,liam-hq/liam,4194.0,👍
+3152681524,MH4GF,APPROVED,2025-06-18T08:18:37Z,liam-hq/liam,4194.0,I understood. Please review @FunamaYukina too!
+3152681524,FunamaYukina,APPROVED,2025-06-18T08:25:02Z,liam-hq/liam,4194.0,"Thank you!!! it's LGTM, I left one comment, but it's one that's not a major issue."
+3152681524,NoritakaIkeda,COMMENTED,2025-06-18T08:32:09Z,liam-hq/liam,4194.0,
+3152681524,FunamaYukina,COMMENTED,2025-06-18T08:34:35Z,liam-hq/liam,4194.0,
+2861932217,MH4GF,COMMENTED,2025-02-19T00:36:14Z,liam-hq/liam,4194.0,
+2861932217,MH4GF,APPROVED,2025-02-19T00:37:02Z,liam-hq/liam,4194.0,LGTM! Can someone see one more?
+2861932217,sasamuku,APPROVED,2025-02-19T07:14:45Z,liam-hq/liam,4194.0,👍
+3196981192,mogery,CHANGES_REQUESTED,2025-07-02T20:10:09Z,mendableai/firecrawl,43970.0,
+3196981192,mogery,CHANGES_REQUESTED,2025-07-02T20:14:09Z,mendableai/firecrawl,43970.0,
+3196981192,mogery,APPROVED,2025-07-02T20:30:09Z,mendableai/firecrawl,43970.0,
+3054150679,TusharBhatt1,COMMENTED,2025-05-12T04:10:06Z,calcom/cal.com,37399.0,
+3054150679,TusharBhatt1,COMMENTED,2025-05-12T04:10:14Z,calcom/cal.com,37399.0,
+3239623244,mogery,APPROVED,2025-07-23T11:10:35Z,mendableai/firecrawl,43970.0,
+2952353649,MH4GF,APPROVED,2025-03-27T10:21:09Z,liam-hq/liam,4194.0,OK
+2952353649,junkisai,APPROVED,2025-03-28T10:28:39Z,liam-hq/liam,4194.0,nice refactoring!
+3023723466,MH4GF,APPROVED,2025-04-28T06:15:52Z,liam-hq/liam,4194.0,LGTM 👍🏻
+3023723466,FunamaYukina,APPROVED,2025-04-28T06:16:42Z,liam-hq/liam,4194.0,I confirmed that the chatbot works properly in the local environment.✅ ![ss 3207](https://github.com/user-attachments/assets/d03336b9-d3fe-4758-821e-37ba3acf086f)
+3264437230,mogery,CHANGES_REQUESTED,2025-07-25T21:34:07Z,mendableai/firecrawl,43970.0,
+3264437230,mogery,CHANGES_REQUESTED,2025-07-25T21:45:45Z,mendableai/firecrawl,43970.0,
+3264437230,mogery,APPROVED,2025-07-25T21:54:03Z,mendableai/firecrawl,43970.0,
+3095454351,hbjORbj,APPROVED,2025-05-28T21:24:07Z,calcom/cal.com,37399.0,
+3095454351,hbjORbj,DISMISSED,2025-05-28T21:24:26Z,calcom/cal.com,37399.0,"I tested, reviewed and made fixes."
+3095454351,hbjORbj,COMMENTED,2025-05-28T21:50:30Z,calcom/cal.com,37399.0,
+3095454351,hbjORbj,APPROVED,2025-05-29T19:01:43Z,calcom/cal.com,37399.0,Tested locally. Let's merge and test in QA
