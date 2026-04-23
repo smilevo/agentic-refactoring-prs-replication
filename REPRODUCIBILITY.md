@@ -24,5 +24,5 @@ This repository contains the replication package for our study on AI-generated r
 
 ## Quick Run (sample)
 ```bash
-pip install -r env/requirements.txt
-bash scripts/run_all.sh --use-sample
+pip install -r requirements.txt
+bash scripts/run_all.sh

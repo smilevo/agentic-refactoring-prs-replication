@@ -1,0 +1,8 @@
+pandas
+anthropic
+scipy
+matplotlib
+tqdm
+pyarrow
+fsspec
+huggingface_hub
