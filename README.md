@@ -66,7 +66,6 @@ RQ1 classification results using the AlOmar et al. (2022) Refactoring Review Tax
 
 ## Taxonomy
 
-We use the Refactoring Review Taxonomy from AlOmar et al. (2022), comprising 6 main categories and 21 subcategories:
 
 | Category | Subcategories |
 |---|---|
