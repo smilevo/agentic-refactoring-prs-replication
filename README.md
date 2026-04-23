@@ -48,7 +48,7 @@ All review comments (human and bot) for PRs in the dataset.
 | `created_at` | Comment timestamp |
 
 ### `taxonomy_accepted_final.csv` / `taxonomy_rejected_final.csv`
-RQ1 classification results using the AlOmar et al. (2022) Refactoring Review Taxonomy.
+RQ1 classification results 
 
 | Column | Description |
 |---|---|
@@ -66,7 +66,6 @@ RQ1 classification results using the AlOmar et al. (2022) Refactoring Review Tax
 
 ## Taxonomy
 
-We use the Refactoring Review Taxonomy from AlOmar et al. (2022), comprising 6 main categories and 21 subcategories:
 
 | Category | Subcategories |
 |---|---|
