@@ -2,11 +2,7 @@
 
 **Replication Package**
 
----
 
-## Authors
-Aymen Masmoudi, Belhassen Khefacha, Andrew Haralambous, Mohamed Wiem Mkaouer  
-University of Michigan-Flint — {masmoudi,khefacha,aharalam,mmkaouer}@umich.edu
 
 ---
 
@@ -131,11 +127,6 @@ Reviewer comments were classified using the Claude Sonnet API (`claude-sonnet-4-
 
 ---
 
-## Reference
-
-> AlOmar, E. A., et al. "Code review practices for refactoring changes: An empirical study on OpenStack." *ICSME 2022*.
-
----
 
 ## License
 
